@@ -2214,3 +2214,2858 @@ target: 000000003fffc000000000000000000000000000000000000000000000000000
 2014-04-01 11:00:34 trying connection 91.229.174.166:11071 lastseen=2.0hrs
 2014-04-01 11:00:39 connection timeout
 2014-04-01 11:00:39 trying connection 91.229.174.166:11071 lastseen=2.0hrs
+2014-04-01 11:00:44 connection timeout
+2014-04-01 11:00:45 trying connection 221.121.207.215:11071 lastseen=11.3hrs
+2014-04-01 11:00:50 connection timeout
+2014-04-01 11:00:50 trying connection 219.130.131.86:11071 lastseen=5.1hrs
+2014-04-01 11:00:55 connection timeout
+2014-04-01 11:00:56 trying connection 50.57.72.201:11071 lastseen=210.4hrs
+2014-04-01 11:00:56 keypool added key 107, size=101
+2014-04-01 11:00:56 keypool reserve 7
+2014-04-01 11:00:56 keypool keep 7
+2014-04-01 11:00:56 NotifyAddressBookChanged 9Dyt4LzJemChDLWkeznxq4omKyLpt187JZ Mining isMine=1 status=0
+2014-04-01 11:00:59 Flushing wallet.dat
+2014-04-01 11:00:59 Flushed wallet.dat 74ms
+2014-04-01 11:01:01 connection timeout
+2014-04-01 11:01:01 trying connection 91.229.174.166:11071 lastseen=2.0hrs
+2014-04-01 11:01:02 Added 1 addresses from 79.117.69.64: 5 tried, 614 new
+2014-04-01 11:01:06 connection timeout
+2014-04-01 11:01:07 trying connection 94.23.6.26:11071 lastseen=205.8hrs
+2014-04-01 11:01:12 connection timeout
+2014-04-01 11:01:12 trying connection 221.121.207.215:11071 lastseen=11.3hrs
+2014-04-01 11:01:17 connection timeout
+2014-04-01 11:01:18 trying connection 199.30.89.207:11071 lastseen=241.8hrs
+2014-04-01 11:01:23 connection timeout
+2014-04-01 11:01:24 trying connection 91.229.174.166:11071 lastseen=2.0hrs
+2014-04-01 11:01:29 connection timeout
+2014-04-01 11:01:29 trying connection 98.250.185.215:11071 lastseen=192.9hrs
+2014-04-01 11:01:31 keypool added key 108, size=101
+2014-04-01 11:01:31 keypool reserve 8
+2014-04-01 11:01:31 CreateNewBlock(): total size 1000
+2014-04-01 11:01:31 ThreadRPCServer method=validateaddress
+2014-04-01 11:01:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:34 Flushing wallet.dat
+2014-04-01 11:01:34 Flushed wallet.dat 87ms
+2014-04-01 11:01:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:34 connection timeout
+2014-04-01 11:01:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:35 trying connection 193.107.16.141:11071 lastseen=176.6hrs
+2014-04-01 11:01:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:40 connection timeout
+2014-04-01 11:01:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:40 trying connection 221.121.207.215:11071 lastseen=11.3hrs
+2014-04-01 11:01:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:45 connection timeout
+2014-04-01 11:01:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:46 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:01:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:51 connection timeout
+2014-04-01 11:01:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:51 trying connection 174.58.236.132:11071 lastseen=214.9hrs
+2014-04-01 11:01:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:56 connection timeout
+2014-04-01 11:01:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:57 trying connection 106.114.69.68:11071 lastseen=7.2hrs
+2014-04-01 11:01:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:01:59 ThreadRPCServer method=submitblock
+2014-04-01 11:01:59 AddToWallet 54a4950225ee745985f2602b50a60d1ae1be5f6e89903a1bd2d645d4dcac4b9d  new
+2014-04-01 11:01:59 NotifyTransactionChanged 54a4950225ee745985f2602b50a60d1ae1be5f6e89903a1bd2d645d4dcac4b9d status=0
+2014-04-01 11:01:59 updateWallet 54a4950225ee745985f2602b50a60d1ae1be5f6e89903a1bd2d645d4dcac4b9d 0
+2014-04-01 11:01:59 Committing 1 changed transactions to coin database...
+2014-04-01 11:01:59 SetBestChain: new best=000000003439b72d62db9252c5674bd9d4154252ae0d3b2f23c8842069f0cdbf  height=241  log2_work=39.954218  tx=242  date=2014-04-01 11:01:31 progress=0.000003
+2014-04-01 11:01:59 NotifyTransactionChanged 8619eaff16c339e581c0b3844b60102df5f836ae359f10fc1a6939af5b65148b status=1
+2014-04-01 11:01:59 ProcessBlock: ACCEPTED
+2014-04-01 11:01:59    inWallet=1 inModel=0 Index=0-0 showTransaction=1 derivedStatus=0
+2014-04-01 11:01:59 CreateNewBlock(): total size 1000
+2014-04-01 11:01:59 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:01:59 CreateNewBlock(): total size 1000
+2014-04-01 11:01:59 updateWallet 8619eaff16c339e581c0b3844b60102df5f836ae359f10fc1a6939af5b65148b 1
+2014-04-01 11:01:59    inWallet=1 inModel=0 Index=1-1 showTransaction=1 derivedStatus=0
+2014-04-01 11:01:59 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:02:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:00 CreateNewBlock(): total size 1000
+2014-04-01 11:02:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:00 received getdata for: block 000000003439b72d62db9252c5674bd9d4154252ae0d3b2f23c8842069f0cdbf
+2014-04-01 11:02:00 received getdata for: block 000000003439b72d62db9252c5674bd9d4154252ae0d3b2f23c8842069f0cdbf
+2014-04-01 11:02:00 received getdata for: block 000000003439b72d62db9252c5674bd9d4154252ae0d3b2f23c8842069f0cdbf
+2014-04-01 11:02:00 received getdata for: block 000000003439b72d62db9252c5674bd9d4154252ae0d3b2f23c8842069f0cdbf
+2014-04-01 11:02:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:01 Flushing wallet.dat
+2014-04-01 11:02:01 Flushed wallet.dat 74ms
+2014-04-01 11:02:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:02 ThreadRPCServer method=submitblock
+2014-04-01 11:02:02 connection timeout
+2014-04-01 11:02:02 AddToWallet b98f1c1a118ab5406fcdc40d92e495a8867c0e920a29e274f048703d30e3bc66  new
+2014-04-01 11:02:02 NotifyTransactionChanged b98f1c1a118ab5406fcdc40d92e495a8867c0e920a29e274f048703d30e3bc66 status=0
+2014-04-01 11:02:02 updateWallet b98f1c1a118ab5406fcdc40d92e495a8867c0e920a29e274f048703d30e3bc66 0
+2014-04-01 11:02:02 Committing 1 changed transactions to coin database...
+2014-04-01 11:02:02 SetBestChain: new best=000000000631f5047ed2acb479a8c0b67cad1994cbdf073a0f7056877272bf2d  height=242  log2_work=39.977302  tx=243  date=2014-04-01 11:02:00 progress=0.000003
+2014-04-01 11:02:02 NotifyTransactionChanged 54a4950225ee745985f2602b50a60d1ae1be5f6e89903a1bd2d645d4dcac4b9d status=1
+2014-04-01 11:02:02 ProcessBlock: ACCEPTED
+2014-04-01 11:02:02    inWallet=1 inModel=0 Index=2-2 showTransaction=1 derivedStatus=0
+2014-04-01 11:02:02 CreateNewBlock(): total size 1000
+2014-04-01 11:02:02 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:02:02 updateWallet 54a4950225ee745985f2602b50a60d1ae1be5f6e89903a1bd2d645d4dcac4b9d 1
+2014-04-01 11:02:02    inWallet=1 inModel=1 Index=0-1 showTransaction=1 derivedStatus=1
+2014-04-01 11:02:02 CreateNewBlock(): total size 1000
+2014-04-01 11:02:02 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:02:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:02 CreateNewBlock(): total size 1000
+2014-04-01 11:02:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:02 received getdata for: block 000000000631f5047ed2acb479a8c0b67cad1994cbdf073a0f7056877272bf2d
+2014-04-01 11:02:02 received getdata for: block 000000000631f5047ed2acb479a8c0b67cad1994cbdf073a0f7056877272bf2d
+2014-04-01 11:02:02 trying connection 62.163.9.155:11071 lastseen=2.3hrs
+2014-04-01 11:02:02 received getdata for: block 000000000631f5047ed2acb479a8c0b67cad1994cbdf073a0f7056877272bf2d
+2014-04-01 11:02:02 received getdata for: block 000000000631f5047ed2acb479a8c0b67cad1994cbdf073a0f7056877272bf2d
+2014-04-01 11:02:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:04 Flushing wallet.dat
+2014-04-01 11:02:04 Flushed wallet.dat 98ms
+2014-04-01 11:02:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:07 connection timeout
+2014-04-01 11:02:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:08 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:02:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:13 connection timeout
+2014-04-01 11:02:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:13 trying connection 74.192.13.17:11071 lastseen=287.6hrs
+2014-04-01 11:02:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:18 connection timeout
+2014-04-01 11:02:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:19 trying connection 128.69.152.170:11071 lastseen=3.7hrs
+2014-04-01 11:02:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:24 connection timeout
+2014-04-01 11:02:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:24 trying connection 106.114.69.68:11071 lastseen=7.2hrs
+2014-04-01 11:02:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:29 connection timeout
+2014-04-01 11:02:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:30 trying connection 70.208.1.106:11071 lastseen=2.0hrs
+2014-04-01 11:02:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:35 connection timeout
+2014-04-01 11:02:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:35 trying connection 93.100.79.103:11071 lastseen=237.5hrs
+2014-04-01 11:02:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:40 connection timeout
+2014-04-01 11:02:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:41 trying connection 184.70.54.54:11071 lastseen=226.7hrs
+2014-04-01 11:02:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:46 connection timeout
+2014-04-01 11:02:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:46 trying connection 70.208.1.106:11071 lastseen=2.0hrs
+2014-04-01 11:02:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:51 connection timeout
+2014-04-01 11:02:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:52 trying connection 24.237.35.104:11071 lastseen=2.2hrs
+2014-04-01 11:02:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:57 connection timeout
+2014-04-01 11:02:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:57 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:02:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:57 ThreadRPCServer method=submitblock
+2014-04-01 11:02:58 AddToWallet 7e9e0a76abd01aaec047045273aba906dd48790741497e270e647ad1d5c5473b  new
+2014-04-01 11:02:58 NotifyTransactionChanged 7e9e0a76abd01aaec047045273aba906dd48790741497e270e647ad1d5c5473b status=0
+2014-04-01 11:02:58 updateWallet 7e9e0a76abd01aaec047045273aba906dd48790741497e270e647ad1d5c5473b 0
+2014-04-01 11:02:58 Committing 1 changed transactions to coin database...
+2014-04-01 11:02:58 SetBestChain: new best=000000001b51c7259a952e379651fbf92bbe9a9a75981b84e5c130c20b96e19c  height=243  log2_work=40.000022  tx=244  date=2014-04-01 11:02:02 progress=0.000003
+2014-04-01 11:02:58 NotifyTransactionChanged b98f1c1a118ab5406fcdc40d92e495a8867c0e920a29e274f048703d30e3bc66 status=1
+2014-04-01 11:02:58 ProcessBlock: ACCEPTED
+2014-04-01 11:02:58    inWallet=1 inModel=0 Index=1-1 showTransaction=1 derivedStatus=0
+2014-04-01 11:02:58 CreateNewBlock(): total size 1000
+2014-04-01 11:02:58 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:02:58 updateWallet b98f1c1a118ab5406fcdc40d92e495a8867c0e920a29e274f048703d30e3bc66 1
+2014-04-01 11:02:58    inWallet=1 inModel=1 Index=3-4 showTransaction=1 derivedStatus=1
+2014-04-01 11:02:58 CreateNewBlock(): total size 1000
+2014-04-01 11:02:58 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:02:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:58 CreateNewBlock(): total size 1000
+2014-04-01 11:02:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:58 received getdata for: block 000000001b51c7259a952e379651fbf92bbe9a9a75981b84e5c130c20b96e19c
+2014-04-01 11:02:58 received getdata for: block 000000001b51c7259a952e379651fbf92bbe9a9a75981b84e5c130c20b96e19c
+2014-04-01 11:02:58 received getdata for: block 000000001b51c7259a952e379651fbf92bbe9a9a75981b84e5c130c20b96e19c
+2014-04-01 11:02:58 received getdata for: block 000000001b51c7259a952e379651fbf92bbe9a9a75981b84e5c130c20b96e19c
+2014-04-01 11:02:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:02:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:00 Flushing wallet.dat
+2014-04-01 11:03:00 Flushed wallet.dat 92ms
+2014-04-01 11:03:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:02 connection timeout
+2014-04-01 11:03:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:03 trying connection 66.90.73.29:11071 lastseen=240.3hrs
+2014-04-01 11:03:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:05 ThreadRPCServer method=submitblock
+2014-04-01 11:03:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:05 AddToWallet 1be1d42f1f34ed409aa34733ddb1ae77685f8a0ac3753586e1e4547a0f9d8392  new
+2014-04-01 11:03:05 NotifyTransactionChanged 1be1d42f1f34ed409aa34733ddb1ae77685f8a0ac3753586e1e4547a0f9d8392 status=0
+2014-04-01 11:03:05 updateWallet 1be1d42f1f34ed409aa34733ddb1ae77685f8a0ac3753586e1e4547a0f9d8392 0
+2014-04-01 11:03:06 Committing 1 changed transactions to coin database...
+2014-04-01 11:03:06 SetBestChain: new best=00000000152f89e25915df550079a8c24ad8b02186b1cc8f07b9b792bda5cc5e  height=244  log2_work=40.02239  tx=245  date=2014-04-01 11:02:58 progress=0.000003
+2014-04-01 11:03:06 NotifyTransactionChanged 7e9e0a76abd01aaec047045273aba906dd48790741497e270e647ad1d5c5473b status=1
+2014-04-01 11:03:06 ProcessBlock: ACCEPTED
+2014-04-01 11:03:06    inWallet=1 inModel=0 Index=0-0 showTransaction=1 derivedStatus=0
+2014-04-01 11:03:06 CreateNewBlock(): total size 1000
+2014-04-01 11:03:06 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:06 CreateNewBlock(): total size 1000
+2014-04-01 11:03:06 CreateNewBlock(): total size 1000
+2014-04-01 11:03:06 updateWallet 7e9e0a76abd01aaec047045273aba906dd48790741497e270e647ad1d5c5473b 1
+2014-04-01 11:03:06 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:06    inWallet=1 inModel=1 Index=2-3 showTransaction=1 derivedStatus=1
+2014-04-01 11:03:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:06 received getdata for: block 00000000152f89e25915df550079a8c24ad8b02186b1cc8f07b9b792bda5cc5e
+2014-04-01 11:03:06 received getdata for: block 00000000152f89e25915df550079a8c24ad8b02186b1cc8f07b9b792bda5cc5e
+2014-04-01 11:03:06 received getdata for: block 00000000152f89e25915df550079a8c24ad8b02186b1cc8f07b9b792bda5cc5e
+2014-04-01 11:03:06 received getdata for: block 00000000152f89e25915df550079a8c24ad8b02186b1cc8f07b9b792bda5cc5e
+2014-04-01 11:03:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:08 ThreadRPCServer method=submitblock
+2014-04-01 11:03:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:08 AddToWallet 8a79924b7b729ed7cc877164186913f86de7d90df48647d88d31bc4c54e4f7bf  new
+2014-04-01 11:03:08 connection timeout
+2014-04-01 11:03:08 NotifyTransactionChanged 8a79924b7b729ed7cc877164186913f86de7d90df48647d88d31bc4c54e4f7bf status=0
+2014-04-01 11:03:08 updateWallet 8a79924b7b729ed7cc877164186913f86de7d90df48647d88d31bc4c54e4f7bf 0
+2014-04-01 11:03:08 Committing 1 changed transactions to coin database...
+2014-04-01 11:03:08 SetBestChain: new best=000000000a0e7f0643b7c1791bfb4b66be7a2b97bbda06d1b54004fbca7c75dd  height=245  log2_work=40.044416  tx=246  date=2014-04-01 11:03:06 progress=0.000003
+2014-04-01 11:03:08 NotifyTransactionChanged 1be1d42f1f34ed409aa34733ddb1ae77685f8a0ac3753586e1e4547a0f9d8392 status=1
+2014-04-01 11:03:08 ProcessBlock: ACCEPTED
+2014-04-01 11:03:08 CreateNewBlock(): total size 1000
+2014-04-01 11:03:08 CreateNewBlock(): total size 1000
+2014-04-01 11:03:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:08 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:08    inWallet=1 inModel=0 Index=4-4 showTransaction=1 derivedStatus=0
+2014-04-01 11:03:08 updateWallet 1be1d42f1f34ed409aa34733ddb1ae77685f8a0ac3753586e1e4547a0f9d8392 1
+2014-04-01 11:03:08    inWallet=1 inModel=1 Index=0-1 showTransaction=1 derivedStatus=1
+2014-04-01 11:03:08 CreateNewBlock(): total size 1000
+2014-04-01 11:03:08 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:08 received getdata for: block 000000000a0e7f0643b7c1791bfb4b66be7a2b97bbda06d1b54004fbca7c75dd
+2014-04-01 11:03:08 received getdata for: block 000000000a0e7f0643b7c1791bfb4b66be7a2b97bbda06d1b54004fbca7c75dd
+2014-04-01 11:03:08 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:03:08 received getdata for: block 000000000a0e7f0643b7c1791bfb4b66be7a2b97bbda06d1b54004fbca7c75dd
+2014-04-01 11:03:08 received getdata for: block 000000000a0e7f0643b7c1791bfb4b66be7a2b97bbda06d1b54004fbca7c75dd
+2014-04-01 11:03:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:10 Flushing wallet.dat
+2014-04-01 11:03:10 Flushed wallet.dat 94ms
+2014-04-01 11:03:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:13 connection timeout
+2014-04-01 11:03:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:14 ThreadRPCServer method=submitblock
+2014-04-01 11:03:14 AddToWallet 84ffd1e1675ca1e8c00731b38af02aedb2081670900b81579da36778529d5fb8  new
+2014-04-01 11:03:14 NotifyTransactionChanged 84ffd1e1675ca1e8c00731b38af02aedb2081670900b81579da36778529d5fb8 status=0
+2014-04-01 11:03:14 updateWallet 84ffd1e1675ca1e8c00731b38af02aedb2081670900b81579da36778529d5fb8 0
+2014-04-01 11:03:14 Committing 1 changed transactions to coin database...
+2014-04-01 11:03:14 SetBestChain: new best=00000000048109cfc08071557183ffa58844446a47506ef97ba40715b30823f6  height=246  log2_work=40.066111  tx=247  date=2014-04-01 11:03:08 progress=0.000003
+2014-04-01 11:03:14 NotifyTransactionChanged 8a79924b7b729ed7cc877164186913f86de7d90df48647d88d31bc4c54e4f7bf status=1
+2014-04-01 11:03:14 ProcessBlock: ACCEPTED
+2014-04-01 11:03:14    inWallet=1 inModel=0 Index=3-3 showTransaction=1 derivedStatus=0
+2014-04-01 11:03:14 CreateNewBlock(): total size 1000
+2014-04-01 11:03:14 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:14 updateWallet 8a79924b7b729ed7cc877164186913f86de7d90df48647d88d31bc4c54e4f7bf 1
+2014-04-01 11:03:14    inWallet=1 inModel=1 Index=5-6 showTransaction=1 derivedStatus=1
+2014-04-01 11:03:14 trying connection 217.7.138.84:11071 lastseen=247.0hrs
+2014-04-01 11:03:14 CreateNewBlock(): total size 1000
+2014-04-01 11:03:14 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:14 received getdata for: block 00000000048109cfc08071557183ffa58844446a47506ef97ba40715b30823f6
+2014-04-01 11:03:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:14 CreateNewBlock(): total size 1000
+2014-04-01 11:03:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:14 received getdata for: block 00000000048109cfc08071557183ffa58844446a47506ef97ba40715b30823f6
+2014-04-01 11:03:14 received getdata for: block 00000000048109cfc08071557183ffa58844446a47506ef97ba40715b30823f6
+2014-04-01 11:03:14 received getdata for: block 00000000048109cfc08071557183ffa58844446a47506ef97ba40715b30823f6
+2014-04-01 11:03:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:16 Flushing wallet.dat
+2014-04-01 11:03:16 Flushed wallet.dat 97ms
+2014-04-01 11:03:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:19 connection timeout
+2014-04-01 11:03:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:19 trying connection 70.208.1.106:11071 lastseen=2.0hrs
+2014-04-01 11:03:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:24 connection timeout
+2014-04-01 11:03:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:25 trying connection 70.208.1.106:11071 lastseen=2.0hrs
+2014-04-01 11:03:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:30 connection timeout
+2014-04-01 11:03:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:30 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:03:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:34 ThreadRPCServer method=submitblock
+2014-04-01 11:03:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:34 AddToWallet 95755a624d3c50b470c66ec290c62b054301dca0bfbea74ec9dd7c11afe1949a  new
+2014-04-01 11:03:34 NotifyTransactionChanged 95755a624d3c50b470c66ec290c62b054301dca0bfbea74ec9dd7c11afe1949a status=0
+2014-04-01 11:03:34 updateWallet 95755a624d3c50b470c66ec290c62b054301dca0bfbea74ec9dd7c11afe1949a 0
+2014-04-01 11:03:34 Committing 1 changed transactions to coin database...
+2014-04-01 11:03:34 SetBestChain: new best=000000000b165eda29bcdafbb1178de9d25cb55f2b900110049f20fb56b8017b  height=247  log2_work=40.087485  tx=248  date=2014-04-01 11:03:14 progress=0.000003
+2014-04-01 11:03:34 NotifyTransactionChanged 84ffd1e1675ca1e8c00731b38af02aedb2081670900b81579da36778529d5fb8 status=1
+2014-04-01 11:03:34 ProcessBlock: ACCEPTED
+2014-04-01 11:03:34    inWallet=1 inModel=0 Index=6-6 showTransaction=1 derivedStatus=0
+2014-04-01 11:03:34 CreateNewBlock(): total size 1000
+2014-04-01 11:03:34 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:34 CreateNewBlock(): total size 1000
+2014-04-01 11:03:34 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:03:34 updateWallet 84ffd1e1675ca1e8c00731b38af02aedb2081670900b81579da36778529d5fb8 1
+2014-04-01 11:03:34    inWallet=1 inModel=1 Index=3-4 showTransaction=1 derivedStatus=1
+2014-04-01 11:03:34 CreateNewBlock(): total size 1000
+2014-04-01 11:03:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:34 received getdata for: block 000000000b165eda29bcdafbb1178de9d25cb55f2b900110049f20fb56b8017b
+2014-04-01 11:03:34 received getdata for: block 000000000b165eda29bcdafbb1178de9d25cb55f2b900110049f20fb56b8017b
+2014-04-01 11:03:34 received getdata for: block 000000000b165eda29bcdafbb1178de9d25cb55f2b900110049f20fb56b8017b
+2014-04-01 11:03:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:35 connection timeout
+2014-04-01 11:03:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:36 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:03:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:36 Flushing wallet.dat
+2014-04-01 11:03:36 Flushed wallet.dat 95ms
+2014-04-01 11:03:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:41 connection timeout
+2014-04-01 11:03:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:41 trying connection 24.237.35.104:11071 lastseen=2.2hrs
+2014-04-01 11:03:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:46 connection timeout
+2014-04-01 11:03:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:47 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:03:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:52 connection timeout
+2014-04-01 11:03:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:52 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:03:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:57 connection timeout
+2014-04-01 11:03:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:58 trying connection 88.190.22.95:11071 lastseen=203.0hrs
+2014-04-01 11:03:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:03:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:03 connection timeout
+2014-04-01 11:04:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:03 trying connection 88.190.22.95:11071 lastseen=203.0hrs
+2014-04-01 11:04:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:07 socket recv error 10054
+2014-04-01 11:04:07 disconnecting node 79.117.69.64:11071
+2014-04-01 11:04:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:08 connection timeout
+2014-04-01 11:04:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:09 trying connection 70.208.1.106:11071 lastseen=2.1hrs
+2014-04-01 11:04:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:14 connection timeout
+2014-04-01 11:04:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:14 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:04:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:19 connection timeout
+2014-04-01 11:04:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:20 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:04:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:25 connection timeout
+2014-04-01 11:04:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:25 trying connection 221.121.207.215:11071 lastseen=11.3hrs
+2014-04-01 11:04:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:30 connection timeout
+2014-04-01 11:04:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:31 trying connection 128.69.152.170:11071 lastseen=3.8hrs
+2014-04-01 11:04:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:36 connection timeout
+2014-04-01 11:04:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:36 trying connection 62.163.9.155:11071 lastseen=2.4hrs
+2014-04-01 11:04:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:41 connection timeout
+2014-04-01 11:04:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:42 trying connection 219.130.131.86:11071 lastseen=5.2hrs
+2014-04-01 11:04:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:46 ThreadRPCServer method=submitblock
+2014-04-01 11:04:46 AddToWallet b98a62d6f3bbea60bedf43ad6ad687c0903e519d88bbdd2a481d57f962aed979  new
+2014-04-01 11:04:46 NotifyTransactionChanged b98a62d6f3bbea60bedf43ad6ad687c0903e519d88bbdd2a481d57f962aed979 status=0
+2014-04-01 11:04:46 updateWallet b98a62d6f3bbea60bedf43ad6ad687c0903e519d88bbdd2a481d57f962aed979 0
+2014-04-01 11:04:46 Committing 1 changed transactions to coin database...
+2014-04-01 11:04:46 SetBestChain: new best=000000000cd438f354c7379e95b76fa87aee413fe2eafbc1d8a798e114264164  height=248  log2_work=40.108546  tx=249  date=2014-04-01 11:04:36 progress=0.000003
+2014-04-01 11:04:46 NotifyTransactionChanged 95755a624d3c50b470c66ec290c62b054301dca0bfbea74ec9dd7c11afe1949a status=1
+2014-04-01 11:04:46 ProcessBlock: ACCEPTED
+2014-04-01 11:04:46    inWallet=1 inModel=0 Index=7-7 showTransaction=1 derivedStatus=0
+2014-04-01 11:04:46 CreateNewBlock(): total size 1000
+2014-04-01 11:04:46 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:04:46 updateWallet 95755a624d3c50b470c66ec290c62b054301dca0bfbea74ec9dd7c11afe1949a 1
+2014-04-01 11:04:46    inWallet=1 inModel=1 Index=6-7 showTransaction=1 derivedStatus=1
+2014-04-01 11:04:46 CreateNewBlock(): total size 1000
+2014-04-01 11:04:46 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:04:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:46 CreateNewBlock(): total size 1000
+2014-04-01 11:04:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:46 received getdata for: block 000000000cd438f354c7379e95b76fa87aee413fe2eafbc1d8a798e114264164
+2014-04-01 11:04:46 received getdata for: block 000000000cd438f354c7379e95b76fa87aee413fe2eafbc1d8a798e114264164
+2014-04-01 11:04:46 received getdata for: block 000000000cd438f354c7379e95b76fa87aee413fe2eafbc1d8a798e114264164
+2014-04-01 11:04:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:47 connection timeout
+2014-04-01 11:04:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:47 trying connection 76.107.232.116:11071 lastseen=262.8hrs
+2014-04-01 11:04:48 Flushing wallet.dat
+2014-04-01 11:04:48 Flushed wallet.dat 90ms
+2014-04-01 11:04:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:52 connection timeout
+2014-04-01 11:04:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:53 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:04:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:58 connection timeout
+2014-04-01 11:04:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:58 trying connection 70.208.1.106:11071 lastseen=2.1hrs
+2014-04-01 11:04:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:04:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:03 connection timeout
+2014-04-01 11:05:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:04 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:05:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:09 connection timeout
+2014-04-01 11:05:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:09 trying connection 70.208.1.106:11071 lastseen=2.1hrs
+2014-04-01 11:05:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:14 connection timeout
+2014-04-01 11:05:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:15 trying connection 89.168.164.238:11071 lastseen=2.6hrs
+2014-04-01 11:05:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:20 connection timeout
+2014-04-01 11:05:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:20 trying connection 203.177.241.135:11071 lastseen=190.2hrs
+2014-04-01 11:05:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:21 ThreadRPCServer method=submitblock
+2014-04-01 11:05:22 AddToWallet 3e4acafcf68aa20bfce40eb423d904bed4f2a3fe786a528d3e8005b85ed87437  new
+2014-04-01 11:05:22 NotifyTransactionChanged 3e4acafcf68aa20bfce40eb423d904bed4f2a3fe786a528d3e8005b85ed87437 status=0
+2014-04-01 11:05:22 updateWallet 3e4acafcf68aa20bfce40eb423d904bed4f2a3fe786a528d3e8005b85ed87437 0
+2014-04-01 11:05:22 Committing 1 changed transactions to coin database...
+2014-04-01 11:05:22 SetBestChain: new best=000000001ef0b81fd6f71cbaf04c7f4201f479df7be270a4ff6eee12c476e0ca  height=249  log2_work=40.129305  tx=250  date=2014-04-01 11:04:46 progress=0.000003
+2014-04-01 11:05:22 NotifyTransactionChanged b98a62d6f3bbea60bedf43ad6ad687c0903e519d88bbdd2a481d57f962aed979 status=1
+2014-04-01 11:05:22 ProcessBlock: ACCEPTED
+2014-04-01 11:05:22    inWallet=1 inModel=0 Index=1-1 showTransaction=1 derivedStatus=0
+2014-04-01 11:05:22 CreateNewBlock(): total size 1000
+2014-04-01 11:05:22 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:22 updateWallet b98a62d6f3bbea60bedf43ad6ad687c0903e519d88bbdd2a481d57f962aed979 1
+2014-04-01 11:05:22    inWallet=1 inModel=1 Index=8-9 showTransaction=1 derivedStatus=1
+2014-04-01 11:05:22 CreateNewBlock(): total size 1000
+2014-04-01 11:05:22 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:22 CreateNewBlock(): total size 1000
+2014-04-01 11:05:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:22 received getdata for: block 000000001ef0b81fd6f71cbaf04c7f4201f479df7be270a4ff6eee12c476e0ca
+2014-04-01 11:05:22 received getdata for: block 000000001ef0b81fd6f71cbaf04c7f4201f479df7be270a4ff6eee12c476e0ca
+2014-04-01 11:05:22 received getdata for: block 000000001ef0b81fd6f71cbaf04c7f4201f479df7be270a4ff6eee12c476e0ca
+2014-04-01 11:05:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:24 Flushing wallet.dat
+2014-04-01 11:05:24 Flushed wallet.dat 90ms
+2014-04-01 11:05:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:25 connection timeout
+2014-04-01 11:05:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:26 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:05:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:28 ThreadRPCServer method=submitblock
+2014-04-01 11:05:28 AddToWallet 41ae43cae578b8114aea09bc3c8d5e810f88e23baa3d1f8595c8767faabd83aa  new
+2014-04-01 11:05:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:28 NotifyTransactionChanged 41ae43cae578b8114aea09bc3c8d5e810f88e23baa3d1f8595c8767faabd83aa status=0
+2014-04-01 11:05:28 updateWallet 41ae43cae578b8114aea09bc3c8d5e810f88e23baa3d1f8595c8767faabd83aa 0
+2014-04-01 11:05:28 Committing 1 changed transactions to coin database...
+2014-04-01 11:05:28 SetBestChain: new best=000000000c31d96ae3f7efdf4580492197018908df702fddd818ee88791eace8  height=250  log2_work=40.149769  tx=251  date=2014-04-01 11:05:22 progress=0.000003
+2014-04-01 11:05:28 NotifyTransactionChanged 3e4acafcf68aa20bfce40eb423d904bed4f2a3fe786a528d3e8005b85ed87437 status=1
+2014-04-01 11:05:28 ProcessBlock: ACCEPTED
+2014-04-01 11:05:28    inWallet=1 inModel=0 Index=2-2 showTransaction=1 derivedStatus=0
+2014-04-01 11:05:28 CreateNewBlock(): total size 1000
+2014-04-01 11:05:28 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:28 updateWallet 3e4acafcf68aa20bfce40eb423d904bed4f2a3fe786a528d3e8005b85ed87437 1
+2014-04-01 11:05:28    inWallet=1 inModel=1 Index=1-2 showTransaction=1 derivedStatus=1
+2014-04-01 11:05:28 CreateNewBlock(): total size 1000
+2014-04-01 11:05:28 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:28 CreateNewBlock(): total size 1000
+2014-04-01 11:05:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:28 received getdata for: block 000000000c31d96ae3f7efdf4580492197018908df702fddd818ee88791eace8
+2014-04-01 11:05:28 received getdata for: block 000000000c31d96ae3f7efdf4580492197018908df702fddd818ee88791eace8
+2014-04-01 11:05:28 received getdata for: block 000000000c31d96ae3f7efdf4580492197018908df702fddd818ee88791eace8
+2014-04-01 11:05:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:30 Flushing wallet.dat
+2014-04-01 11:05:30 Flushed wallet.dat 85ms
+2014-04-01 11:05:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:31 connection timeout
+2014-04-01 11:05:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:31 trying connection 188.230.177.121:11071 lastseen=2.6hrs
+2014-04-01 11:05:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:36 connection timeout
+2014-04-01 11:05:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:37 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:05:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:38 ThreadRPCServer method=submitblock
+2014-04-01 11:05:38 AddToWallet 12787ad92cd818b967ff3d27b9d26ede8198b7a8f7c0075769a292767c022cef  new
+2014-04-01 11:05:38 NotifyTransactionChanged 12787ad92cd818b967ff3d27b9d26ede8198b7a8f7c0075769a292767c022cef status=0
+2014-04-01 11:05:38 updateWallet 12787ad92cd818b967ff3d27b9d26ede8198b7a8f7c0075769a292767c022cef 0
+2014-04-01 11:05:38 Committing 1 changed transactions to coin database...
+2014-04-01 11:05:38 SetBestChain: new best=000000003bf38d7a4c962e0aec06d11694aa51d67abc7e48b4458784f7ac3132  height=251  log2_work=40.169947  tx=252  date=2014-04-01 11:05:28 progress=0.000003
+2014-04-01 11:05:38 NotifyTransactionChanged 41ae43cae578b8114aea09bc3c8d5e810f88e23baa3d1f8595c8767faabd83aa status=1
+2014-04-01 11:05:38 ProcessBlock: ACCEPTED
+2014-04-01 11:05:38    inWallet=1 inModel=0 Index=0-0 showTransaction=1 derivedStatus=0
+2014-04-01 11:05:38 CreateNewBlock(): total size 1000
+2014-04-01 11:05:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:38 updateWallet 41ae43cae578b8114aea09bc3c8d5e810f88e23baa3d1f8595c8767faabd83aa 1
+2014-04-01 11:05:38    inWallet=1 inModel=1 Index=3-4 showTransaction=1 derivedStatus=1
+2014-04-01 11:05:38 CreateNewBlock(): total size 1000
+2014-04-01 11:05:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:38 received getdata for: block 000000003bf38d7a4c962e0aec06d11694aa51d67abc7e48b4458784f7ac3132
+2014-04-01 11:05:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:38 CreateNewBlock(): total size 1000
+2014-04-01 11:05:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:38 received getdata for: block 000000003bf38d7a4c962e0aec06d11694aa51d67abc7e48b4458784f7ac3132
+2014-04-01 11:05:38 received getdata for: block 000000003bf38d7a4c962e0aec06d11694aa51d67abc7e48b4458784f7ac3132
+2014-04-01 11:05:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:40 Flushing wallet.dat
+2014-04-01 11:05:40 Flushed wallet.dat 83ms
+2014-04-01 11:05:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:41 keypool added key 109, size=101
+2014-04-01 11:05:41 keypool reserve 9
+2014-04-01 11:05:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:41 keypool keep 9
+2014-04-01 11:05:41 NotifyAddressBookChanged 98uzNrivtn2fos1WTVojJafXrTDjQrWooH  isMine=1 status=0
+2014-04-01 11:05:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:42 ThreadRPCServer method=submitblock
+2014-04-01 11:05:42 AddToWallet 175ef3b5b146a453f0f670c543b887fc941346fe0caee8f16d4c9e71e5548090  new
+2014-04-01 11:05:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:42 NotifyTransactionChanged 175ef3b5b146a453f0f670c543b887fc941346fe0caee8f16d4c9e71e5548090 status=0
+2014-04-01 11:05:42 updateWallet 175ef3b5b146a453f0f670c543b887fc941346fe0caee8f16d4c9e71e5548090 0
+2014-04-01 11:05:42 Committing 1 changed transactions to coin database...
+2014-04-01 11:05:42 SetBestChain: new best=000000000a59651c19dcd3901cc61385c16b8ca00d12aae3f31f64acc5fd587b  height=252  log2_work=40.189847  tx=253  date=2014-04-01 11:05:38 progress=0.000003
+2014-04-01 11:05:42 NotifyTransactionChanged 12787ad92cd818b967ff3d27b9d26ede8198b7a8f7c0075769a292767c022cef status=1
+2014-04-01 11:05:42 ProcessBlock: ACCEPTED
+2014-04-01 11:05:42    inWallet=1 inModel=0 Index=1-1 showTransaction=1 derivedStatus=0
+2014-04-01 11:05:42 CreateNewBlock(): total size 1000
+2014-04-01 11:05:42 updateWallet 12787ad92cd818b967ff3d27b9d26ede8198b7a8f7c0075769a292767c022cef 1
+2014-04-01 11:05:42 CreateNewBlock(): total size 1000
+2014-04-01 11:05:42 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:42    inWallet=1 inModel=1 Index=0-1 showTransaction=1 derivedStatus=1
+2014-04-01 11:05:42 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:05:42 connection timeout
+2014-04-01 11:05:42 CreateNewBlock(): total size 1000
+2014-04-01 11:05:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:42 received getdata for: block 000000000a59651c19dcd3901cc61385c16b8ca00d12aae3f31f64acc5fd587b
+2014-04-01 11:05:42 received getdata for: block 000000000a59651c19dcd3901cc61385c16b8ca00d12aae3f31f64acc5fd587b
+2014-04-01 11:05:42 received getdata for: block 000000000a59651c19dcd3901cc61385c16b8ca00d12aae3f31f64acc5fd587b
+2014-04-01 11:05:42 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:05:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:43 keypool added key 110, size=101
+2014-04-01 11:05:43 keypool reserve 10
+2014-04-01 11:05:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:43 keypool keep 10
+2014-04-01 11:05:43 NotifyAddressBookChanged 9P7PfEVygbQ6qWhNx2ehKHrTTKytyDGYzG  isMine=1 status=0
+2014-04-01 11:05:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:45 Flushing wallet.dat
+2014-04-01 11:05:45 Flushed wallet.dat 81ms
+2014-04-01 11:05:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:47 connection timeout
+2014-04-01 11:05:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:48 trying connection 168.63.235.62:11071 lastseen=229.5hrs
+2014-04-01 11:05:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:53 connection timeout
+2014-04-01 11:05:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:53 trying connection 61.55.141.195:11071 lastseen=3.9hrs
+2014-04-01 11:05:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:58 connection timeout
+2014-04-01 11:05:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:59 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:05:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:05:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:00 accepted connection [2001:0:9d38:6abd:1c64:2de0:b08a:babf]:49678
+2014-04-01 11:06:00 send version message: version 70001, blocks=252, us=[2600:100e:b10a:3f30:64cc:a441:4bbc:2d40]:11071, them=[2001:0:9d38:6abd:1c64:2de0:b08a:babf]:49678, peer=[2001:0:9d38:6abd:1c64:2de0:b08a:babf]:49678
+2014-04-01 11:06:00 Added time data, samples 8, offset +0 (+0 minutes)
+2014-04-01 11:06:00 receive version message: /Satoshi:0.8.6/: version 70001, blocks=252, us=[2001:0:9d38:6ab8:34d7:e562:b92f:fe95]:11071, them=79.117.69.64:11071, peer=[2001:0:9d38:6abd:1c64:2de0:b08a:babf]:49678
+2014-04-01 11:06:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:02 ThreadRPCServer method=submitblock
+2014-04-01 11:06:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:02 AddToWallet 957721364439dd7754cea082714d6d18cd03219532f80dd11e80631fbe708db7  new
+2014-04-01 11:06:02 NotifyTransactionChanged 957721364439dd7754cea082714d6d18cd03219532f80dd11e80631fbe708db7 status=0
+2014-04-01 11:06:02 updateWallet 957721364439dd7754cea082714d6d18cd03219532f80dd11e80631fbe708db7 0
+2014-04-01 11:06:02 Committing 1 changed transactions to coin database...
+2014-04-01 11:06:02 SetBestChain: new best=000000000c7482e06f7bd0fdfa1582405da591d9a747c6ceac36d6d6535e8d67  height=253  log2_work=40.209475  tx=254  date=2014-04-01 11:05:42 progress=0.000003
+2014-04-01 11:06:02 NotifyTransactionChanged 175ef3b5b146a453f0f670c543b887fc941346fe0caee8f16d4c9e71e5548090 status=1
+2014-04-01 11:06:02 ProcessBlock: ACCEPTED
+2014-04-01 11:06:02    inWallet=1 inModel=0 Index=11-11 showTransaction=1 derivedStatus=0
+2014-04-01 11:06:02 CreateNewBlock(): total size 1000
+2014-04-01 11:06:02 CreateNewBlock(): total size 1000
+2014-04-01 11:06:02 updateWallet 175ef3b5b146a453f0f670c543b887fc941346fe0caee8f16d4c9e71e5548090 1
+2014-04-01 11:06:02 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:06:02    inWallet=1 inModel=1 Index=1-2 showTransaction=1 derivedStatus=1
+2014-04-01 11:06:02 CreateNewBlock(): total size 1000
+2014-04-01 11:06:02 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:06:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:02 received getdata for: block 000000000c7482e06f7bd0fdfa1582405da591d9a747c6ceac36d6d6535e8d67
+2014-04-01 11:06:02 received getdata for: block 000000000c7482e06f7bd0fdfa1582405da591d9a747c6ceac36d6d6535e8d67
+2014-04-01 11:06:02 received getdata for: block 000000000c7482e06f7bd0fdfa1582405da591d9a747c6ceac36d6d6535e8d67
+2014-04-01 11:06:03 received getdata for: block 000000000c7482e06f7bd0fdfa1582405da591d9a747c6ceac36d6d6535e8d67
+2014-04-01 11:06:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:04 Flushing wallet.dat
+2014-04-01 11:06:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:04 Flushed wallet.dat 113ms
+2014-04-01 11:06:04 connection timeout
+2014-04-01 11:06:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:04 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:06:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:09 connection timeout
+2014-04-01 11:06:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:10 trying connection 70.208.1.106:11071 lastseen=2.1hrs
+2014-04-01 11:06:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:15 connection timeout
+2014-04-01 11:06:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:15 trying connection 129.244.86.85:11071 lastseen=279.9hrs
+2014-04-01 11:06:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:20 connection timeout
+2014-04-01 11:06:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:21 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:06:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:23 ThreadRPCServer method=submitblock
+2014-04-01 11:06:24 AddToWallet b1461557e4a8eeb6198f393cfd18860f0ac9cc38ce35cf7e6520c0d1a08b5c2d  new
+2014-04-01 11:06:24 NotifyTransactionChanged b1461557e4a8eeb6198f393cfd18860f0ac9cc38ce35cf7e6520c0d1a08b5c2d status=0
+2014-04-01 11:06:24 updateWallet b1461557e4a8eeb6198f393cfd18860f0ac9cc38ce35cf7e6520c0d1a08b5c2d 0
+2014-04-01 11:06:24 Committing 1 changed transactions to coin database...
+2014-04-01 11:06:24 SetBestChain: new best=0000000038757ec8b0667e5a942d5c2726b8523766a9c51c1b039d968637beb2  height=254  log2_work=40.228841  tx=255  date=2014-04-01 11:06:02 progress=0.000003
+2014-04-01 11:06:24 NotifyTransactionChanged 957721364439dd7754cea082714d6d18cd03219532f80dd11e80631fbe708db7 status=1
+2014-04-01 11:06:24 ProcessBlock: ACCEPTED
+2014-04-01 11:06:24    inWallet=1 inModel=0 Index=12-12 showTransaction=1 derivedStatus=0
+2014-04-01 11:06:24 updateWallet 957721364439dd7754cea082714d6d18cd03219532f80dd11e80631fbe708db7 1
+2014-04-01 11:06:24    inWallet=1 inModel=1 Index=11-12 showTransaction=1 derivedStatus=1
+2014-04-01 11:06:24 CreateNewBlock(): total size 1000
+2014-04-01 11:06:24 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:06:24 CreateNewBlock(): total size 1000
+2014-04-01 11:06:24 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:06:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:24 CreateNewBlock(): total size 1000
+2014-04-01 11:06:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:24 received getdata for: block 0000000038757ec8b0667e5a942d5c2726b8523766a9c51c1b039d968637beb2
+2014-04-01 11:06:24 received getdata for: block 0000000038757ec8b0667e5a942d5c2726b8523766a9c51c1b039d968637beb2
+2014-04-01 11:06:24 received getdata for: block 0000000038757ec8b0667e5a942d5c2726b8523766a9c51c1b039d968637beb2
+2014-04-01 11:06:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:24 received getdata for: block 0000000038757ec8b0667e5a942d5c2726b8523766a9c51c1b039d968637beb2
+2014-04-01 11:06:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:26 Flushing wallet.dat
+2014-04-01 11:06:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:26 Flushed wallet.dat 92ms
+2014-04-01 11:06:26 connection timeout
+2014-04-01 11:06:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:26 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:06:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:31 connection timeout
+2014-04-01 11:06:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:32 trying connection 202.238.74.59:11071 lastseen=201.2hrs
+2014-04-01 11:06:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:37 connection timeout
+2014-04-01 11:06:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:37 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:06:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:42 connection timeout
+2014-04-01 11:06:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:43 trying connection 184.106.176.25:11071 lastseen=307.6hrs
+2014-04-01 11:06:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:47 ThreadRPCServer method=submitblock
+2014-04-01 11:06:47 AddToWallet 354d2050b4177622c01b3a26ca23853d0dd7831dbc90abcfa6333d51a06b70a0  new
+2014-04-01 11:06:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:47 NotifyTransactionChanged 354d2050b4177622c01b3a26ca23853d0dd7831dbc90abcfa6333d51a06b70a0 status=0
+2014-04-01 11:06:47 updateWallet 354d2050b4177622c01b3a26ca23853d0dd7831dbc90abcfa6333d51a06b70a0 0
+2014-04-01 11:06:47 Committing 1 changed transactions to coin database...
+2014-04-01 11:06:47 SetBestChain: new best=0000000037eda4adcda591c4472153d86d23da2f2b8fe6b1ce09c935cdafcf32  height=255  log2_work=40.24795  tx=256  date=2014-04-01 11:06:24 progress=0.000003
+2014-04-01 11:06:47 NotifyTransactionChanged b1461557e4a8eeb6198f393cfd18860f0ac9cc38ce35cf7e6520c0d1a08b5c2d status=1
+2014-04-01 11:06:47 ProcessBlock: ACCEPTED
+2014-04-01 11:06:47    inWallet=1 inModel=0 Index=3-3 showTransaction=1 derivedStatus=0
+2014-04-01 11:06:47 updateWallet b1461557e4a8eeb6198f393cfd18860f0ac9cc38ce35cf7e6520c0d1a08b5c2d 1
+2014-04-01 11:06:47    inWallet=1 inModel=1 Index=13-14 showTransaction=1 derivedStatus=1
+2014-04-01 11:06:47 CreateNewBlock(): total size 1000
+2014-04-01 11:06:47 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:06:47 CreateNewBlock(): total size 1000
+2014-04-01 11:06:47 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:06:47 CreateNewBlock(): total size 1000
+2014-04-01 11:06:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:47 received getdata for: block 0000000037eda4adcda591c4472153d86d23da2f2b8fe6b1ce09c935cdafcf32
+2014-04-01 11:06:47 received getdata for: block 0000000037eda4adcda591c4472153d86d23da2f2b8fe6b1ce09c935cdafcf32
+2014-04-01 11:06:47 received getdata for: block 0000000037eda4adcda591c4472153d86d23da2f2b8fe6b1ce09c935cdafcf32
+2014-04-01 11:06:47 received getdata for: block 0000000037eda4adcda591c4472153d86d23da2f2b8fe6b1ce09c935cdafcf32
+2014-04-01 11:06:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:48 connection timeout
+2014-04-01 11:06:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:48 trying connection 173.89.13.50:11071 lastseen=198.2hrs
+2014-04-01 11:06:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:49 Flushing wallet.dat
+2014-04-01 11:06:49 Flushed wallet.dat 94ms
+2014-04-01 11:06:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:53 connection timeout
+2014-04-01 11:06:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:54 trying connection 221.121.207.215:11071 lastseen=11.4hrs
+2014-04-01 11:06:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:59 connection timeout
+2014-04-01 11:06:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:06:59 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:07:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:04 connection timeout
+2014-04-01 11:07:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:05 trying connection 161.67.132.40:11071 lastseen=291.3hrs
+2014-04-01 11:07:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:08 ThreadRPCServer method=submitblock
+2014-04-01 11:07:08 AddToWallet 697262245f4f832ed730c04496402cef5d285772393b182883f54cb9d7865b1f  new
+2014-04-01 11:07:08 NotifyTransactionChanged 697262245f4f832ed730c04496402cef5d285772393b182883f54cb9d7865b1f status=0
+2014-04-01 11:07:08 updateWallet 697262245f4f832ed730c04496402cef5d285772393b182883f54cb9d7865b1f 0
+2014-04-01 11:07:08 Committing 1 changed transactions to coin database...
+2014-04-01 11:07:08 SetBestChain: new best=0000000017f314ce03730ceaa7ef98ad359868c8c1f6cbcaf737c5e065ab060d  height=256  log2_work=40.266809  tx=257  date=2014-04-01 11:06:47 progress=0.000003
+2014-04-01 11:07:08 NotifyTransactionChanged 354d2050b4177622c01b3a26ca23853d0dd7831dbc90abcfa6333d51a06b70a0 status=1
+2014-04-01 11:07:08 ProcessBlock: ACCEPTED
+2014-04-01 11:07:08    inWallet=1 inModel=0 Index=7-7 showTransaction=1 derivedStatus=0
+2014-04-01 11:07:08 CreateNewBlock(): total size 1000
+2014-04-01 11:07:08 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:07:08 updateWallet 354d2050b4177622c01b3a26ca23853d0dd7831dbc90abcfa6333d51a06b70a0 1
+2014-04-01 11:07:08 CreateNewBlock(): total size 1000
+2014-04-01 11:07:08    inWallet=1 inModel=1 Index=3-4 showTransaction=1 derivedStatus=1
+2014-04-01 11:07:08 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:07:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:09 CreateNewBlock(): total size 1000
+2014-04-01 11:07:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:09 received getdata for: block 0000000017f314ce03730ceaa7ef98ad359868c8c1f6cbcaf737c5e065ab060d
+2014-04-01 11:07:09 received getdata for: block 0000000017f314ce03730ceaa7ef98ad359868c8c1f6cbcaf737c5e065ab060d
+2014-04-01 11:07:09 received getdata for: block 0000000017f314ce03730ceaa7ef98ad359868c8c1f6cbcaf737c5e065ab060d
+2014-04-01 11:07:09 received getdata for: block 0000000017f314ce03730ceaa7ef98ad359868c8c1f6cbcaf737c5e065ab060d
+2014-04-01 11:07:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:10 connection timeout
+2014-04-01 11:07:10 Flushing wallet.dat
+2014-04-01 11:07:10 Flushed wallet.dat 87ms
+2014-04-01 11:07:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:10 trying connection 128.69.152.170:11071 lastseen=3.8hrs
+2014-04-01 11:07:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:15 connection timeout
+2014-04-01 11:07:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:16 trying connection 5.9.93.165:11071 lastseen=198.0hrs
+2014-04-01 11:07:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:21 connection timeout
+2014-04-01 11:07:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:21 trying connection 145.97.205.201:11071 lastseen=201.4hrs
+2014-04-01 11:07:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:26 connection timeout
+2014-04-01 11:07:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:27 trying connection 50.42.35.91:11071 lastseen=4.2hrs
+2014-04-01 11:07:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:32 connection timeout
+2014-04-01 11:07:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:32 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:07:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:37 connection timeout
+2014-04-01 11:07:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:38 trying connection 168.63.235.62:11071 lastseen=229.5hrs
+2014-04-01 11:07:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:43 connection timeout
+2014-04-01 11:07:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:43 trying connection 91.229.174.166:11071 lastseen=2.1hrs
+2014-04-01 11:07:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:48 connection timeout
+2014-04-01 11:07:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:49 trying connection 89.168.164.238:11071 lastseen=2.7hrs
+2014-04-01 11:07:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:54 connection timeout
+2014-04-01 11:07:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:54 trying connection 62.163.9.155:11071 lastseen=2.4hrs
+2014-04-01 11:07:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:59 connection timeout
+2014-04-01 11:07:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:07:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:00 trying connection 221.121.207.215:11071 lastseen=11.4hrs
+2014-04-01 11:08:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:05 connection timeout
+2014-04-01 11:08:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:05 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:08:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:10 connection timeout
+2014-04-01 11:08:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:11 trying connection 70.174.160.14:11071 lastseen=177.4hrs
+2014-04-01 11:08:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:16 connection timeout
+2014-04-01 11:08:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:17 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:08:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:22 connection timeout
+2014-04-01 11:08:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:22 trying connection 91.243.199.75:11071 lastseen=10.8hrs
+2014-04-01 11:08:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:24 accepted connection [2001:0:9d38:6ab8:1c46:4263:9d48:45a8]:50647
+2014-04-01 11:08:24 send version message: version 70001, blocks=256, us=[2600:100e:b10a:3f30:64cc:a441:4bbc:2d40]:11071, them=[2001:0:9d38:6ab8:1c46:4263:9d48:45a8]:50647, peer=[2001:0:9d38:6ab8:1c46:4263:9d48:45a8]:50647
+2014-04-01 11:08:24 Added time data, samples 9, offset -44 (+0 minutes)
+2014-04-01 11:08:24 nTimeOffset = +0  (+0 minutes)
+2014-04-01 11:08:24 receive version message: /Satoshi:0.8.6/: version 70001, blocks=256, us=[2001:0:9d38:6ab8:34d7:e562:b92f:fe95]:11071, them=98.183.186.87:11071, peer=[2001:0:9d38:6ab8:1c46:4263:9d48:45a8]:50647
+2014-04-01 11:08:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:25 ThreadRPCServer method=submitblock
+2014-04-01 11:08:25 AddToWallet af368c5253017c269d468be8454c3f745ead5215e77644e955c254de9c9573c2  new
+2014-04-01 11:08:25 NotifyTransactionChanged af368c5253017c269d468be8454c3f745ead5215e77644e955c254de9c9573c2 status=0
+2014-04-01 11:08:25 updateWallet af368c5253017c269d468be8454c3f745ead5215e77644e955c254de9c9573c2 0
+2014-04-01 11:08:25 Committing 1 changed transactions to coin database...
+2014-04-01 11:08:25 SetBestChain: new best=000000001e1f65d93f0c169376b6d385ed1f589f2781e583511ee69dcd57c08b  height=257  log2_work=40.285424  tx=258  date=2014-04-01 11:08:11 progress=0.000003
+2014-04-01 11:08:25 NotifyTransactionChanged 697262245f4f832ed730c04496402cef5d285772393b182883f54cb9d7865b1f status=1
+2014-04-01 11:08:25 ProcessBlock: ACCEPTED
+2014-04-01 11:08:25    inWallet=1 inModel=0 Index=14-14 showTransaction=1 derivedStatus=0
+2014-04-01 11:08:25 Added 1 addresses from 2001:0:9d38:6ab8:1c46:4263:9d48:45a8: 5 tried, 615 new
+2014-04-01 11:08:25 CreateNewBlock(): total size 1000
+2014-04-01 11:08:25 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:25 updateWallet 697262245f4f832ed730c04496402cef5d285772393b182883f54cb9d7865b1f 1
+2014-04-01 11:08:25    inWallet=1 inModel=1 Index=7-8 showTransaction=1 derivedStatus=1
+2014-04-01 11:08:26 CreateNewBlock(): total size 1000
+2014-04-01 11:08:26 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:26 CreateNewBlock(): total size 1000
+2014-04-01 11:08:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:26 received getdata for: block 000000001e1f65d93f0c169376b6d385ed1f589f2781e583511ee69dcd57c08b
+2014-04-01 11:08:26 received getdata for: block 000000001e1f65d93f0c169376b6d385ed1f589f2781e583511ee69dcd57c08b
+2014-04-01 11:08:26 received getdata for: block 000000001e1f65d93f0c169376b6d385ed1f589f2781e583511ee69dcd57c08b
+2014-04-01 11:08:26 received getdata for: block 000000001e1f65d93f0c169376b6d385ed1f589f2781e583511ee69dcd57c08b
+2014-04-01 11:08:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:26 received getdata for: block 000000001e1f65d93f0c169376b6d385ed1f589f2781e583511ee69dcd57c08b
+2014-04-01 11:08:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:27 connection timeout
+2014-04-01 11:08:28 Flushing wallet.dat
+2014-04-01 11:08:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:28 Flushed wallet.dat 106ms
+2014-04-01 11:08:28 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:08:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:29 Added 1 addresses from 218.244.141.219: 5 tried, 616 new
+2014-04-01 11:08:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:32 ThreadRPCServer method=submitblock
+2014-04-01 11:08:32 AddToWallet 713c172a1876fb678163eeec977675043df1958868b4ec08ac04154da34dd8e0  new
+2014-04-01 11:08:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:32 NotifyTransactionChanged 713c172a1876fb678163eeec977675043df1958868b4ec08ac04154da34dd8e0 status=0
+2014-04-01 11:08:32 updateWallet 713c172a1876fb678163eeec977675043df1958868b4ec08ac04154da34dd8e0 0
+2014-04-01 11:08:32 Committing 1 changed transactions to coin database...
+2014-04-01 11:08:32 SetBestChain: new best=00000000311889b76c45b2f1d435f8b800467c4af8b5c9933e9ad18e6e19b3da  height=258  log2_work=40.303803  tx=259  date=2014-04-01 11:08:26 progress=0.000003
+2014-04-01 11:08:32 NotifyTransactionChanged af368c5253017c269d468be8454c3f745ead5215e77644e955c254de9c9573c2 status=1
+2014-04-01 11:08:32 ProcessBlock: ACCEPTED
+2014-04-01 11:08:32    inWallet=1 inModel=0 Index=8-8 showTransaction=1 derivedStatus=0
+2014-04-01 11:08:32 CreateNewBlock(): total size 1000
+2014-04-01 11:08:32 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:32 CreateNewBlock(): total size 1000
+2014-04-01 11:08:32 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:32 updateWallet af368c5253017c269d468be8454c3f745ead5215e77644e955c254de9c9573c2 1
+2014-04-01 11:08:32    inWallet=1 inModel=1 Index=15-16 showTransaction=1 derivedStatus=1
+2014-04-01 11:08:32 CreateNewBlock(): total size 1000
+2014-04-01 11:08:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:32 received getdata for: block 00000000311889b76c45b2f1d435f8b800467c4af8b5c9933e9ad18e6e19b3da
+2014-04-01 11:08:32 received getdata for: block 00000000311889b76c45b2f1d435f8b800467c4af8b5c9933e9ad18e6e19b3da
+2014-04-01 11:08:32 received getdata for: block 00000000311889b76c45b2f1d435f8b800467c4af8b5c9933e9ad18e6e19b3da
+2014-04-01 11:08:32 received getdata for: block 00000000311889b76c45b2f1d435f8b800467c4af8b5c9933e9ad18e6e19b3da
+2014-04-01 11:08:33 received getdata for: block 00000000311889b76c45b2f1d435f8b800467c4af8b5c9933e9ad18e6e19b3da
+2014-04-01 11:08:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:33 connection timeout
+2014-04-01 11:08:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:33 trying connection 91.243.199.75:11071 lastseen=10.8hrs
+2014-04-01 11:08:34 Flushing wallet.dat
+2014-04-01 11:08:34 Flushed wallet.dat 95ms
+2014-04-01 11:08:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:38 connection timeout
+2014-04-01 11:08:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:39 trying connection 216.119.158.225:11071 lastseen=221.6hrs
+2014-04-01 11:08:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:43 received block 0000000015be6b458319755b795566bb6a8ab2268fb8727618827740a9bfea7d
+2014-04-01 11:08:43 Committing 1 changed transactions to coin database...
+2014-04-01 11:08:43 SetBestChain: new best=0000000015be6b458319755b795566bb6a8ab2268fb8727618827740a9bfea7d  height=259  log2_work=40.32195  tx=260  date=2014-04-01 11:08:27 progress=0.000003
+2014-04-01 11:08:43 NotifyTransactionChanged 713c172a1876fb678163eeec977675043df1958868b4ec08ac04154da34dd8e0 status=1
+2014-04-01 11:08:43 ProcessBlock: ACCEPTED
+2014-04-01 11:08:43 updateWallet 713c172a1876fb678163eeec977675043df1958868b4ec08ac04154da34dd8e0 1
+2014-04-01 11:08:43    inWallet=1 inModel=1 Index=8-9 showTransaction=1 derivedStatus=1
+2014-04-01 11:08:43 CreateNewBlock(): total size 1000
+2014-04-01 11:08:43 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:43 CreateNewBlock(): total size 1000
+2014-04-01 11:08:43 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:43 CreateNewBlock(): total size 1000
+2014-04-01 11:08:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:44 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:08:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:44 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:08:44 connection timeout
+2014-04-01 11:08:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:44 ThreadRPCServer method=submitblock
+2014-04-01 11:08:44 trying connection 70.208.1.106:11071 lastseen=2.1hrs
+2014-04-01 11:08:44 AddToWallet ef496f01e4c7f093ae854f8a649f9e089a988ba50398f46d4ae8eb6193d1f499  new
+2014-04-01 11:08:45 NotifyTransactionChanged ef496f01e4c7f093ae854f8a649f9e089a988ba50398f46d4ae8eb6193d1f499 status=0
+2014-04-01 11:08:45 updateWallet ef496f01e4c7f093ae854f8a649f9e089a988ba50398f46d4ae8eb6193d1f499 0
+2014-04-01 11:08:45 Committing 1 changed transactions to coin database...
+2014-04-01 11:08:45 SetBestChain: new best=0000000011034db3e9a1da7d4c84b1135a45e376f8ef4e52b8c0a7e720adffd3  height=260  log2_work=40.339872  tx=261  date=2014-04-01 11:08:43 progress=0.000003
+2014-04-01 11:08:45 ProcessBlock: ACCEPTED
+2014-04-01 11:08:45    inWallet=1 inModel=0 Index=19-19 showTransaction=1 derivedStatus=0
+2014-04-01 11:08:45 CreateNewBlock(): total size 1000
+2014-04-01 11:08:45 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:45 CreateNewBlock(): total size 1000
+2014-04-01 11:08:45 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:45 CreateNewBlock(): total size 1000
+2014-04-01 11:08:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:45 received getdata for: block 0000000011034db3e9a1da7d4c84b1135a45e376f8ef4e52b8c0a7e720adffd3
+2014-04-01 11:08:45 received getdata for: block 0000000011034db3e9a1da7d4c84b1135a45e376f8ef4e52b8c0a7e720adffd3
+2014-04-01 11:08:45 received getdata for: block 0000000011034db3e9a1da7d4c84b1135a45e376f8ef4e52b8c0a7e720adffd3
+2014-04-01 11:08:45 received getdata for: block 0000000011034db3e9a1da7d4c84b1135a45e376f8ef4e52b8c0a7e720adffd3
+2014-04-01 11:08:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:45 received getdata for: block 0000000011034db3e9a1da7d4c84b1135a45e376f8ef4e52b8c0a7e720adffd3
+2014-04-01 11:08:46 received block 000000000b83cad49f6a94df08cd7b848822fd593c247882b9c73b41c769f335
+2014-04-01 11:08:46 ProcessBlock: ACCEPTED
+2014-04-01 11:08:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:47 Flushing wallet.dat
+2014-04-01 11:08:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:47 Flushed wallet.dat 149ms
+2014-04-01 11:08:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:49 received block 000000000d69d3bf261a7028a68812fba536f8c6b663fba097c9d6837d9a3d9b
+2014-04-01 11:08:49 REORGANIZE: Disconnect 1 blocks; 0000000015be6b458319755b795566bb6a8ab2268fb8727618827740a9bfea7d..
+2014-04-01 11:08:49 REORGANIZE: Connect 2 blocks; ..000000000d69d3bf261a7028a68812fba536f8c6b663fba097c9d6837d9a3d9b
+2014-04-01 11:08:49 connection timeout
+2014-04-01 11:08:49 Committing 3 changed transactions to coin database...
+2014-04-01 11:08:49 SetBestChain: new best=000000000d69d3bf261a7028a68812fba536f8c6b663fba097c9d6837d9a3d9b  height=261  log2_work=40.357574  tx=262  date=2014-04-01 11:08:38 progress=0.000003
+2014-04-01 11:08:49 NotifyTransactionChanged ef496f01e4c7f093ae854f8a649f9e089a988ba50398f46d4ae8eb6193d1f499 status=1
+2014-04-01 11:08:49 ProcessBlock: ACCEPTED
+2014-04-01 11:08:49 updateWallet ef496f01e4c7f093ae854f8a649f9e089a988ba50398f46d4ae8eb6193d1f499 1
+2014-04-01 11:08:49    inWallet=1 inModel=1 Index=19-20 showTransaction=0 derivedStatus=2
+2014-04-01 11:08:49 CreateNewBlock(): total size 1000
+2014-04-01 11:08:49 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:49 CreateNewBlock(): total size 1000
+2014-04-01 11:08:49 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:08:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:50 CreateNewBlock(): total size 1000
+2014-04-01 11:08:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:50 trying connection 221.121.207.215:11071 lastseen=11.4hrs
+2014-04-01 11:08:50 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:08:50 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:08:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:55 connection timeout
+2014-04-01 11:08:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:56 trying connection 61.55.141.195:11071 lastseen=4.0hrs
+2014-04-01 11:08:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:08:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:01 connection timeout
+2014-04-01 11:09:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:01 trying connection 5.9.93.165:11071 lastseen=198.0hrs
+2014-04-01 11:09:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:05 received block 00000000012f08913ff0e864259f76e850ac6c265dc7347d497e255c32016f1e
+2014-04-01 11:09:05 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:05 SetBestChain: new best=00000000012f08913ff0e864259f76e850ac6c265dc7347d497e255c32016f1e  height=262  log2_work=40.375061  tx=263  date=2014-04-01 11:08:42 progress=0.000003
+2014-04-01 11:09:05 ProcessBlock: ACCEPTED
+2014-04-01 11:09:05 CreateNewBlock(): total size 1000
+2014-04-01 11:09:05 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:05 CreateNewBlock(): total size 1000
+2014-04-01 11:09:05 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:05 CreateNewBlock(): total size 1000
+2014-04-01 11:09:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:05 received block 0000000019e43126f8b8f32d21e81bb454ea5ed016516ef2844ee9c47406840e
+2014-04-01 11:09:05 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:05 SetBestChain: new best=0000000019e43126f8b8f32d21e81bb454ea5ed016516ef2844ee9c47406840e  height=263  log2_work=40.392339  tx=264  date=2014-04-01 11:08:56 progress=0.000003
+2014-04-01 11:09:05 ProcessBlock: ACCEPTED
+2014-04-01 11:09:05 CreateNewBlock(): total size 1000
+2014-04-01 11:09:05 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:05 CreateNewBlock(): total size 1000
+2014-04-01 11:09:05 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:05 getblocks 263 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:05 getblocks 263 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:05 CreateNewBlock(): total size 1000
+2014-04-01 11:09:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:06 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:06 getblocks 263 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:06 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:06 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:06 connection timeout
+2014-04-01 11:09:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:07 trying connection 50.42.35.91:11071 lastseen=4.2hrs
+2014-04-01 11:09:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:10 received block 000000001a2e02c4126f23d4af1c114c5f5aacfe5ffabb91c8cb166a773c545d
+2014-04-01 11:09:10 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:10 SetBestChain: new best=000000001a2e02c4126f23d4af1c114c5f5aacfe5ffabb91c8cb166a773c545d  height=264  log2_work=40.409413  tx=265  date=2014-04-01 11:08:57 progress=0.000003
+2014-04-01 11:09:10 ProcessBlock: ACCEPTED
+2014-04-01 11:09:10 CreateNewBlock(): total size 1000
+2014-04-01 11:09:10 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:10 CreateNewBlock(): total size 1000
+2014-04-01 11:09:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:10 CreateNewBlock(): total size 1000
+2014-04-01 11:09:10 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:11 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:11 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:12 connection timeout
+2014-04-01 11:09:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:12 trying connection 94.242.209.124:11071 lastseen=181.2hrs
+2014-04-01 11:09:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:15 received block 0000000008b2d24a01c8b03848f69d61126c14f30e0f28c9d0ba4ef8414dde64
+2014-04-01 11:09:15 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:15 SetBestChain: new best=0000000008b2d24a01c8b03848f69d61126c14f30e0f28c9d0ba4ef8414dde64  height=265  log2_work=40.426287  tx=266  date=2014-04-01 11:09:02 progress=0.000003
+2014-04-01 11:09:15 ProcessBlock: ACCEPTED
+2014-04-01 11:09:15 CreateNewBlock(): total size 1000
+2014-04-01 11:09:15 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:15 CreateNewBlock(): total size 1000
+2014-04-01 11:09:15 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:15 CreateNewBlock(): total size 1000
+2014-04-01 11:09:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:15 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:15 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:17 connection timeout
+2014-04-01 11:09:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:18 trying connection 61.55.141.195:11071 lastseen=4.0hrs
+2014-04-01 11:09:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:20 received block 0000000035a9dc537ae7cd6a13d3862a4f0916ac82e883d4cad1c35bf6fe99d1
+2014-04-01 11:09:20 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:20 SetBestChain: new best=0000000035a9dc537ae7cd6a13d3862a4f0916ac82e883d4cad1c35bf6fe99d1  height=266  log2_work=40.442966  tx=267  date=2014-04-01 11:09:07 progress=0.000003
+2014-04-01 11:09:20 ProcessBlock: ACCEPTED
+2014-04-01 11:09:20 CreateNewBlock(): total size 1000
+2014-04-01 11:09:20 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:20 CreateNewBlock(): total size 1000
+2014-04-01 11:09:20 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:20 CreateNewBlock(): total size 1000
+2014-04-01 11:09:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:21 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:21 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:22 received block 00000000283b2a4bd73207556de6b2faac04577e21a83dbdecd722be2f8b0fc2
+2014-04-01 11:09:22 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:22 SetBestChain: new best=00000000283b2a4bd73207556de6b2faac04577e21a83dbdecd722be2f8b0fc2  height=267  log2_work=40.459454  tx=268  date=2014-04-01 11:09:18 progress=0.000003
+2014-04-01 11:09:22 ProcessBlock: ACCEPTED
+2014-04-01 11:09:22 CreateNewBlock(): total size 1000
+2014-04-01 11:09:22 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:22 CreateNewBlock(): total size 1000
+2014-04-01 11:09:22 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:22 CreateNewBlock(): total size 1000
+2014-04-01 11:09:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:22 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:22 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:23 connection timeout
+2014-04-01 11:09:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:23 trying connection 96.42.193.41:11071 lastseen=196.5hrs
+2014-04-01 11:09:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:28 ThreadRPCServer method=submitblock
+2014-04-01 11:09:28 AddToWallet f00964bba870a1b60423a2772d4f2968e4c2f7b96ec8424e0e04d92cbc3c01c1  new
+2014-04-01 11:09:28 NotifyTransactionChanged f00964bba870a1b60423a2772d4f2968e4c2f7b96ec8424e0e04d92cbc3c01c1 status=0
+2014-04-01 11:09:28 updateWallet f00964bba870a1b60423a2772d4f2968e4c2f7b96ec8424e0e04d92cbc3c01c1 0
+2014-04-01 11:09:28 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:28 SetBestChain: new best=000000002f0c9ac5af2fae078b406ae388bb4e6e46ebe9ac3773b7116e6a1f5d  height=268  log2_work=40.475755  tx=269  date=2014-04-01 11:09:22 progress=0.000003
+2014-04-01 11:09:28 ProcessBlock: ACCEPTED
+2014-04-01 11:09:28    inWallet=1 inModel=0 Index=19-19 showTransaction=1 derivedStatus=0
+2014-04-01 11:09:28 CreateNewBlock(): total size 1000
+2014-04-01 11:09:28 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:28 CreateNewBlock(): total size 1000
+2014-04-01 11:09:28 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:28 connection timeout
+2014-04-01 11:09:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:29 CreateNewBlock(): total size 1000
+2014-04-01 11:09:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:29 received getdata for: block 000000002f0c9ac5af2fae078b406ae388bb4e6e46ebe9ac3773b7116e6a1f5d
+2014-04-01 11:09:29 received getdata for: block 000000002f0c9ac5af2fae078b406ae388bb4e6e46ebe9ac3773b7116e6a1f5d
+2014-04-01 11:09:29 received getdata for: block 000000002f0c9ac5af2fae078b406ae388bb4e6e46ebe9ac3773b7116e6a1f5d
+2014-04-01 11:09:29 received getdata for: block 000000002f0c9ac5af2fae078b406ae388bb4e6e46ebe9ac3773b7116e6a1f5d
+2014-04-01 11:09:29 received getdata for: block 000000002f0c9ac5af2fae078b406ae388bb4e6e46ebe9ac3773b7116e6a1f5d
+2014-04-01 11:09:29 trying connection 89.168.164.238:11071 lastseen=2.7hrs
+2014-04-01 11:09:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:30 Flushing wallet.dat
+2014-04-01 11:09:30 Flushed wallet.dat 102ms
+2014-04-01 11:09:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:34 connection timeout
+2014-04-01 11:09:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:34 trying connection 59.157.2.114:11071 lastseen=201.7hrs
+2014-04-01 11:09:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:38 received block 000000001b23035ce306b5996beac8bb1c11262f9ee006ab1c5763688052011d
+2014-04-01 11:09:38 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:38 SetBestChain: new best=000000001b23035ce306b5996beac8bb1c11262f9ee006ab1c5763688052011d  height=269  log2_work=40.491875  tx=270  date=2014-04-01 11:09:27 progress=0.000003
+2014-04-01 11:09:38 NotifyTransactionChanged f00964bba870a1b60423a2772d4f2968e4c2f7b96ec8424e0e04d92cbc3c01c1 status=1
+2014-04-01 11:09:38 ProcessBlock: ACCEPTED
+2014-04-01 11:09:38 updateWallet f00964bba870a1b60423a2772d4f2968e4c2f7b96ec8424e0e04d92cbc3c01c1 1
+2014-04-01 11:09:38    inWallet=1 inModel=1 Index=19-20 showTransaction=1 derivedStatus=1
+2014-04-01 11:09:38 CreateNewBlock(): total size 1000
+2014-04-01 11:09:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:38 CreateNewBlock(): total size 1000
+2014-04-01 11:09:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:38 CreateNewBlock(): total size 1000
+2014-04-01 11:09:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:39 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:39 connection timeout
+2014-04-01 11:09:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:40 trying connection 89.168.164.238:11071 lastseen=2.7hrs
+2014-04-01 11:09:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:44 received block 000000001cc43a8c70f39a7a8f2f41d9f90d6301b4227d1891a6095017400311
+2014-04-01 11:09:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:44 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:44 SetBestChain: new best=000000001cc43a8c70f39a7a8f2f41d9f90d6301b4227d1891a6095017400311  height=270  log2_work=40.507817  tx=271  date=2014-04-01 11:09:36 progress=0.000003
+2014-04-01 11:09:44 ProcessBlock: ACCEPTED
+2014-04-01 11:09:44 CreateNewBlock(): total size 1000
+2014-04-01 11:09:44 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:44 CreateNewBlock(): total size 1000
+2014-04-01 11:09:44 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:44 CreateNewBlock(): total size 1000
+2014-04-01 11:09:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:44 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:44 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:44 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:45 connection timeout
+2014-04-01 11:09:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:45 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:09:46 accepted connection [2001:0:9d38:6abd:c68:9deb:4b03:9cda]:64435
+2014-04-01 11:09:46 send version message: version 70001, blocks=270, us=[2600:100e:b10a:3f30:64cc:a441:4bbc:2d40]:11071, them=[2001:0:9d38:6abd:c68:9deb:4b03:9cda]:64435, peer=[2001:0:9d38:6abd:c68:9deb:4b03:9cda]:64435
+2014-04-01 11:09:46 Added time data, samples 10, offset +5 (+0 minutes)
+2014-04-01 11:09:46 receive version message: /Satoshi:0.8.6/: version 70001, blocks=270, us=[2001:0:9d38:6ab8:34d7:e562:b92f:fe95]:11071, them=180.252.99.37:11071, peer=[2001:0:9d38:6abd:c68:9deb:4b03:9cda]:64435
+2014-04-01 11:09:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:48 received block 00000000104cc0fa373664f79ca4740c48c485abee82e954176df26854ace682
+2014-04-01 11:09:48 Committing 1 changed transactions to coin database...
+2014-04-01 11:09:48 SetBestChain: new best=00000000104cc0fa373664f79ca4740c48c485abee82e954176df26854ace682  height=271  log2_work=40.523584  tx=272  date=2014-04-01 11:09:44 progress=0.000003
+2014-04-01 11:09:48 ProcessBlock: ACCEPTED
+2014-04-01 11:09:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:48 CreateNewBlock(): total size 1000
+2014-04-01 11:09:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:48 CreateNewBlock(): total size 1000
+2014-04-01 11:09:48 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:48 CreateNewBlock(): total size 1000
+2014-04-01 11:09:48 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:09:48 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:49 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:09:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:50 connection timeout
+2014-04-01 11:09:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:51 trying connection 87.96.245.204:11071 lastseen=193.4hrs
+2014-04-01 11:09:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:56 connection timeout
+2014-04-01 11:09:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:57 trying connection 91.243.199.75:11071 lastseen=10.9hrs
+2014-04-01 11:09:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:09:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:01 ThreadRPCServer method=getblockcount
