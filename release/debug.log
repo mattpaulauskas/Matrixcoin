@@ -5069,3 +5069,983 @@ target: 000000003fffc000000000000000000000000000000000000000000000000000
 2014-04-01 11:10:01 ThreadRPCServer method=getblockcount
 2014-04-01 11:10:01 ThreadRPCServer method=getblockcount
 2014-04-01 11:10:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:02 connection timeout
+2014-04-01 11:10:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:02 trying connection 50.42.35.91:11071 lastseen=4.2hrs
+2014-04-01 11:10:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:03 ThreadRPCServer method=submitblock
+2014-04-01 11:10:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:04 AddToWallet d0415dcff1912713a534ec9aedb3cb10dad4c0ec141dc9f1417a2eee4fb1886a  new
+2014-04-01 11:10:04 NotifyTransactionChanged d0415dcff1912713a534ec9aedb3cb10dad4c0ec141dc9f1417a2eee4fb1886a status=0
+2014-04-01 11:10:04 updateWallet d0415dcff1912713a534ec9aedb3cb10dad4c0ec141dc9f1417a2eee4fb1886a 0
+2014-04-01 11:10:04 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:04 SetBestChain: new best=0000000019b368b37b5c337e472ec911f2198e744a21e59bd2602962bd621037  height=272  log2_work=40.539181  tx=273  date=2014-04-01 11:09:48 progress=0.000003
+2014-04-01 11:10:04 ProcessBlock: ACCEPTED
+2014-04-01 11:10:04    inWallet=1 inModel=0 Index=19-19 showTransaction=1 derivedStatus=0
+2014-04-01 11:10:04 CreateNewBlock(): total size 1000
+2014-04-01 11:10:04 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:04 CreateNewBlock(): total size 1000
+2014-04-01 11:10:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:04 CreateNewBlock(): total size 1000
+2014-04-01 11:10:04 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:04 received getdata for: block 0000000019b368b37b5c337e472ec911f2198e744a21e59bd2602962bd621037
+2014-04-01 11:10:04 received getdata for: block 0000000019b368b37b5c337e472ec911f2198e744a21e59bd2602962bd621037
+2014-04-01 11:10:04 received getdata for: block 0000000019b368b37b5c337e472ec911f2198e744a21e59bd2602962bd621037
+2014-04-01 11:10:04 received getdata for: block 0000000019b368b37b5c337e472ec911f2198e744a21e59bd2602962bd621037
+2014-04-01 11:10:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:04 received getdata for: block 0000000019b368b37b5c337e472ec911f2198e744a21e59bd2602962bd621037
+2014-04-01 11:10:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:05 received getdata for: block 0000000019b368b37b5c337e472ec911f2198e744a21e59bd2602962bd621037
+2014-04-01 11:10:05 received block 000000001a97d988b27328bab1a7e30e82202bd71d53c63d8638e490e442e49d
+2014-04-01 11:10:05 ProcessBlock: ACCEPTED
+2014-04-01 11:10:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:06 Flushing wallet.dat
+2014-04-01 11:10:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:06 Flushed wallet.dat 99ms
+2014-04-01 11:10:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:07 connection timeout
+2014-04-01 11:10:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:08 trying connection 62.163.9.155:11071 lastseen=2.5hrs
+2014-04-01 11:10:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:13 connection timeout
+2014-04-01 11:10:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:13 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:10:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:15 received block 000000000ff61ca763397189e38d148215ce0370817ef60bf957a54b543d2323
+2014-04-01 11:10:15 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:15 SetBestChain: new best=000000000ff61ca763397189e38d148215ce0370817ef60bf957a54b543d2323  height=273  log2_work=40.554611  tx=274  date=2014-04-01 11:10:07 progress=0.000003
+2014-04-01 11:10:15 NotifyTransactionChanged d0415dcff1912713a534ec9aedb3cb10dad4c0ec141dc9f1417a2eee4fb1886a status=1
+2014-04-01 11:10:15 ProcessBlock: ACCEPTED
+2014-04-01 11:10:15 updateWallet d0415dcff1912713a534ec9aedb3cb10dad4c0ec141dc9f1417a2eee4fb1886a 1
+2014-04-01 11:10:15    inWallet=1 inModel=1 Index=19-20 showTransaction=1 derivedStatus=1
+2014-04-01 11:10:15 CreateNewBlock(): total size 1000
+2014-04-01 11:10:15 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:15 CreateNewBlock(): total size 1000
+2014-04-01 11:10:15 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:15 CreateNewBlock(): total size 1000
+2014-04-01 11:10:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:16 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:18 received block 000000001348b3c676da3e7951c61dec2e6698491609c04a55972fe7fba4e74b
+2014-04-01 11:10:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:18 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:18 SetBestChain: new best=000000001348b3c676da3e7951c61dec2e6698491609c04a55972fe7fba4e74b  height=274  log2_work=40.569878  tx=275  date=2014-04-01 11:10:14 progress=0.000003
+2014-04-01 11:10:18 ProcessBlock: ACCEPTED
+2014-04-01 11:10:18 CreateNewBlock(): total size 1000
+2014-04-01 11:10:18 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:18 CreateNewBlock(): total size 1000
+2014-04-01 11:10:18 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:18 CreateNewBlock(): total size 1000
+2014-04-01 11:10:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:18 connection timeout
+2014-04-01 11:10:19 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:19 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:19 trying connection 50.42.35.91:11071 lastseen=4.2hrs
+2014-04-01 11:10:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:19 received block 000000000b6837dbb402570b5f3228a861539c5cb79bc2fe09c842548a3cb998
+2014-04-01 11:10:19 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:19 SetBestChain: new best=000000000b6837dbb402570b5f3228a861539c5cb79bc2fe09c842548a3cb998  height=275  log2_work=40.584985  tx=276  date=2014-04-01 11:10:16 progress=0.000003
+2014-04-01 11:10:19 ProcessBlock: ACCEPTED
+2014-04-01 11:10:19 CreateNewBlock(): total size 1000
+2014-04-01 11:10:19 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:19 CreateNewBlock(): total size 1000
+2014-04-01 11:10:19 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:20 CreateNewBlock(): total size 1000
+2014-04-01 11:10:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:20 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:24 connection timeout
+2014-04-01 11:10:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:24 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:10:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:29 connection timeout
+2014-04-01 11:10:30 received block 000000000ab6c9da3d2d70aa5a94f206a1c4be12836aa6fd3188f645aa71226b
+2014-04-01 11:10:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:30 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:30 SetBestChain: new best=000000000ab6c9da3d2d70aa5a94f206a1c4be12836aa6fd3188f645aa71226b  height=276  log2_work=40.599935  tx=277  date=2014-04-01 11:10:17 progress=0.000003
+2014-04-01 11:10:30 ProcessBlock: ACCEPTED
+2014-04-01 11:10:30 CreateNewBlock(): total size 1000
+2014-04-01 11:10:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:30 CreateNewBlock(): total size 1000
+2014-04-01 11:10:30 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:30 CreateNewBlock(): total size 1000
+2014-04-01 11:10:30 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:30 getblocks 275 to 000000000ab6c9da3d2d70aa5a94f206a1c4be12836aa6fd3188f645aa71226b limit 500
+2014-04-01 11:10:30   getblocks stopping at 276 000000000ab6c9da3d2d70aa5a94f206a1c4be12836aa6fd3188f645aa71226b
+2014-04-01 11:10:30 trying connection 91.243.199.75:11071 lastseen=10.9hrs
+2014-04-01 11:10:30 socket recv error 10054
+2014-04-01 11:10:30 disconnecting node [2001:0:9d38:6abd:1c64:2de0:b08a:babf]:49678
+2014-04-01 11:10:31 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:32 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:33 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:34 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:34 received block 000000003fa6157cd048f68ab9629e8f2ddbf9ac3824944c89ef483cf406c81e
+2014-04-01 11:10:34 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:34 SetBestChain: new best=000000003fa6157cd048f68ab9629e8f2ddbf9ac3824944c89ef483cf406c81e  height=277  log2_work=40.614732  tx=278  date=2014-04-01 11:10:29 progress=0.000003
+2014-04-01 11:10:34 ProcessBlock: ACCEPTED
+2014-04-01 11:10:34 CreateNewBlock(): total size 1000
+2014-04-01 11:10:34 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:34 CreateNewBlock(): total size 1000
+2014-04-01 11:10:34 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:35 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:35 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:35 CreateNewBlock(): total size 1000
+2014-04-01 11:10:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:35 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:35 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:35 connection timeout
+2014-04-01 11:10:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:36 trying connection 89.168.164.238:11071 lastseen=2.7hrs
+2014-04-01 11:10:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:36 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:37 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:38 received block 00000000207d45f87d322cfe5e6af8385d679e4478f0e3d64d43bd46aacdf8d4
+2014-04-01 11:10:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:38 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:38 SetBestChain: new best=00000000207d45f87d322cfe5e6af8385d679e4478f0e3d64d43bd46aacdf8d4  height=278  log2_work=40.629379  tx=279  date=2014-04-01 11:10:32 progress=0.000003
+2014-04-01 11:10:38 ProcessBlock: ACCEPTED
+2014-04-01 11:10:38 CreateNewBlock(): total size 1000
+2014-04-01 11:10:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:38 CreateNewBlock(): total size 1000
+2014-04-01 11:10:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:38 CreateNewBlock(): total size 1000
+2014-04-01 11:10:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:38 received block 000000000bd5e91bd608f0c4a65fe922f128b1e7d59fced881981bb9f46c3ace
+2014-04-01 11:10:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:38 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:38 SetBestChain: new best=000000000bd5e91bd608f0c4a65fe922f128b1e7d59fced881981bb9f46c3ace  height=279  log2_work=40.643878  tx=280  date=2014-04-01 11:10:36 progress=0.000003
+2014-04-01 11:10:38 ProcessBlock: ACCEPTED
+2014-04-01 11:10:38 getblocks 279 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:38 getblocks 279 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:38 CreateNewBlock(): total size 1000
+2014-04-01 11:10:38 CreateNewBlock(): total size 1000
+2014-04-01 11:10:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:38 CreateNewBlock(): total size 1000
+2014-04-01 11:10:38 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:38 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:39 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:39 getblocks 279 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:39 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:39 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:40 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:41 connection timeout
+2014-04-01 11:10:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:41 trying connection 89.168.164.238:11071 lastseen=2.7hrs
+2014-04-01 11:10:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:41 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:42 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:43 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:44 received block 0000000034787c292ae2ac3dd379176dec2a6ecff2f56527c0d6d5dfd51cd9f2
+2014-04-01 11:10:44 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:44 SetBestChain: new best=0000000034787c292ae2ac3dd379176dec2a6ecff2f56527c0d6d5dfd51cd9f2  height=280  log2_work=40.658233  tx=281  date=2014-04-01 11:10:36 progress=0.000003
+2014-04-01 11:10:44 ProcessBlock: ACCEPTED
+2014-04-01 11:10:44 CreateNewBlock(): total size 1000
+2014-04-01 11:10:44 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:44 CreateNewBlock(): total size 1000
+2014-04-01 11:10:44 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:44 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:44 CreateNewBlock(): total size 1000
+2014-04-01 11:10:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:44 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:44 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:45 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:45 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:46 received block 000000003b638f45cc2745c37ac690861a7eb7a5bd0f71a451aa96cd7281a12e
+2014-04-01 11:10:46 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:46 SetBestChain: new best=000000003b638f45cc2745c37ac690861a7eb7a5bd0f71a451aa96cd7281a12e  height=281  log2_work=40.672447  tx=282  date=2014-04-01 11:10:42 progress=0.000003
+2014-04-01 11:10:46 ProcessBlock: ACCEPTED
+2014-04-01 11:10:46 CreateNewBlock(): total size 1000
+2014-04-01 11:10:46 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:46 CreateNewBlock(): total size 1000
+2014-04-01 11:10:46 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:46 connection timeout
+2014-04-01 11:10:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:46 CreateNewBlock(): total size 1000
+2014-04-01 11:10:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:46 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:47 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:47 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:47 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:47 trying connection 50.42.35.91:11071 lastseen=4.3hrs
+2014-04-01 11:10:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:47 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:48 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:49 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:50 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:51 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:51 received block 00000000207bf4b49d7ef629d54556c1af64d3985cfd093d4da87a4b5b453c0f
+2014-04-01 11:10:51 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:51 SetBestChain: new best=00000000207bf4b49d7ef629d54556c1af64d3985cfd093d4da87a4b5b453c0f  height=282  log2_work=40.686523  tx=283  date=2014-04-01 11:10:44 progress=0.000003
+2014-04-01 11:10:51 ProcessBlock: ACCEPTED
+2014-04-01 11:10:51 CreateNewBlock(): total size 1000
+2014-04-01 11:10:51 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:51 CreateNewBlock(): total size 1000
+2014-04-01 11:10:51 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:52 CreateNewBlock(): total size 1000
+2014-04-01 11:10:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:52 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:52 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:52 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:10:52 connection timeout
+2014-04-01 11:10:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:52 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:53 ThreadRPCServer method=submitblock
+2014-04-01 11:10:53 trying connection 50.42.35.91:11071 lastseen=4.3hrs
+2014-04-01 11:10:53 AddToWallet 5c342dcc8d5113e21491338867359de02e32a4cf1da10f502ea9cdeea6b1b6d3  new
+2014-04-01 11:10:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:53 NotifyTransactionChanged 5c342dcc8d5113e21491338867359de02e32a4cf1da10f502ea9cdeea6b1b6d3 status=0
+2014-04-01 11:10:53 updateWallet 5c342dcc8d5113e21491338867359de02e32a4cf1da10f502ea9cdeea6b1b6d3 0
+2014-04-01 11:10:53 Committing 1 changed transactions to coin database...
+2014-04-01 11:10:53 SetBestChain: new best=0000000017374447dd11f518d85cc8137e9ed869420c6e56c510a1b73d40a98c  height=283  log2_work=40.700462  tx=284  date=2014-04-01 11:10:52 progress=0.000003
+2014-04-01 11:10:53 ProcessBlock: ACCEPTED
+2014-04-01 11:10:53    inWallet=1 inModel=0 Index=7-7 showTransaction=1 derivedStatus=0
+2014-04-01 11:10:53 CreateNewBlock(): total size 1000
+2014-04-01 11:10:53 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:53 CreateNewBlock(): total size 1000
+2014-04-01 11:10:53 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:10:53 CreateNewBlock(): total size 1000
+2014-04-01 11:10:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:53 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:53 received getdata for: block 0000000017374447dd11f518d85cc8137e9ed869420c6e56c510a1b73d40a98c
+2014-04-01 11:10:53 received getdata for: block 0000000017374447dd11f518d85cc8137e9ed869420c6e56c510a1b73d40a98c
+2014-04-01 11:10:53 received getdata for: block 0000000017374447dd11f518d85cc8137e9ed869420c6e56c510a1b73d40a98c
+2014-04-01 11:10:54 received getdata for: block 0000000017374447dd11f518d85cc8137e9ed869420c6e56c510a1b73d40a98c
+2014-04-01 11:10:54 received getdata for: block 0000000017374447dd11f518d85cc8137e9ed869420c6e56c510a1b73d40a98c
+2014-04-01 11:10:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:54 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:55 Flushing wallet.dat
+2014-04-01 11:10:55 Flushed wallet.dat 290ms
+2014-04-01 11:10:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:55 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:56 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:57 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:58 connection timeout
+2014-04-01 11:10:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:58 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:58 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:10:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:10:59 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:00 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:00 received block 00000000071f5dc50478e7e1c3aeaca66004a016a7a9b56b4d6b23913a85fc9b
+2014-04-01 11:11:00 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:00 SetBestChain: new best=00000000071f5dc50478e7e1c3aeaca66004a016a7a9b56b4d6b23913a85fc9b  height=284  log2_work=40.714268  tx=285  date=2014-04-01 11:10:55 progress=0.000003
+2014-04-01 11:11:00 NotifyTransactionChanged 5c342dcc8d5113e21491338867359de02e32a4cf1da10f502ea9cdeea6b1b6d3 status=1
+2014-04-01 11:11:00 ProcessBlock: ACCEPTED
+2014-04-01 11:11:00 updateWallet 5c342dcc8d5113e21491338867359de02e32a4cf1da10f502ea9cdeea6b1b6d3 1
+2014-04-01 11:11:00    inWallet=1 inModel=1 Index=7-8 showTransaction=1 derivedStatus=1
+2014-04-01 11:11:01 CreateNewBlock(): total size 1000
+2014-04-01 11:11:01 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:01 CreateNewBlock(): total size 1000
+2014-04-01 11:11:01 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:01 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:01 CreateNewBlock(): total size 1000
+2014-04-01 11:11:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:01 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:01 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:01 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:02 received block 0000000013d3a5ef8aabaa824395bb74f6a6e99c07332b6b5133b1038bcc7326
+2014-04-01 11:11:02 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:02 SetBestChain: new best=0000000013d3a5ef8aabaa824395bb74f6a6e99c07332b6b5133b1038bcc7326  height=285  log2_work=40.727942  tx=286  date=2014-04-01 11:10:58 progress=0.000003
+2014-04-01 11:11:02 ProcessBlock: ACCEPTED
+2014-04-01 11:11:02 CreateNewBlock(): total size 1000
+2014-04-01 11:11:02 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:02 CreateNewBlock(): total size 1000
+2014-04-01 11:11:02 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:02 CreateNewBlock(): total size 1000
+2014-04-01 11:11:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:02 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:02 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:02 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:03 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:03 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:03 connection timeout
+2014-04-01 11:11:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:04 trying connection 89.168.164.238:11071 lastseen=2.7hrs
+2014-04-01 11:11:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:04 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:05 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:05 received block 0000000003090a2894f89d3014323e7384dff9af2bcc06e003c4f355fe97da88
+2014-04-01 11:11:06 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:06 SetBestChain: new best=0000000003090a2894f89d3014323e7384dff9af2bcc06e003c4f355fe97da88  height=286  log2_work=40.741489  tx=287  date=2014-04-01 11:11:00 progress=0.000003
+2014-04-01 11:11:06 ProcessBlock: ACCEPTED
+2014-04-01 11:11:06 CreateNewBlock(): total size 1000
+2014-04-01 11:11:06 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:06 CreateNewBlock(): total size 1000
+2014-04-01 11:11:06 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:06 CreateNewBlock(): total size 1000
+2014-04-01 11:11:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:06 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:06 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:06 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:07 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:08 received block 00000000161f89b6d15556495abfbb8b2b4e9ebc8f5322689a90938f92dc899d
+2014-04-01 11:11:08 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:08 SetBestChain: new best=00000000161f89b6d15556495abfbb8b2b4e9ebc8f5322689a90938f92dc899d  height=287  log2_work=40.75491  tx=288  date=2014-04-01 11:11:03 progress=0.000003
+2014-04-01 11:11:08 ProcessBlock: ACCEPTED
+2014-04-01 11:11:08 CreateNewBlock(): total size 1000
+2014-04-01 11:11:08 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:08 CreateNewBlock(): total size 1000
+2014-04-01 11:11:08 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:08 CreateNewBlock(): total size 1000
+2014-04-01 11:11:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:08 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:09 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:09 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:09 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:09 connection timeout
+2014-04-01 11:11:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:09 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:09 trying connection 70.208.1.106:11071 lastseen=2.2hrs
+2014-04-01 11:11:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:10 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:11 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:12 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:13 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:14 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:14 connection timeout
+2014-04-01 11:11:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:15 trying connection 79.117.69.64:11071 lastseen=0.2hrs
+2014-04-01 11:11:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:15 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:16 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:17 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:18 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:19 received block 000000002e960d542396136b366851dbd299f600152fdee9e2ee42f35c29bbaf
+2014-04-01 11:11:19 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:19 SetBestChain: new best=000000002e960d542396136b366851dbd299f600152fdee9e2ee42f35c29bbaf  height=288  log2_work=40.768206  tx=289  date=2014-04-01 11:11:12 progress=0.000003
+2014-04-01 11:11:19 ProcessBlock: ACCEPTED
+2014-04-01 11:11:19 CreateNewBlock(): total size 1000
+2014-04-01 11:11:19 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:19 CreateNewBlock(): total size 1000
+2014-04-01 11:11:19 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:19 CreateNewBlock(): total size 1000
+2014-04-01 11:11:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:19 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:19 received block 000000000299485bce371911136e0a8144b6926349867aff48f157bd29bd8de1
+2014-04-01 11:11:19 ProcessBlock: ACCEPTED
+2014-04-01 11:11:19 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:19 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:20 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:20 connection timeout
+2014-04-01 11:11:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:20 ThreadRPCServer method=submitblock
+2014-04-01 11:11:20 AddToWallet 2d5520186f72a796625f1bf5461f8cd7ab4bdee7ca9b41ab27835114b859eb02  new
+2014-04-01 11:11:20 NotifyTransactionChanged 2d5520186f72a796625f1bf5461f8cd7ab4bdee7ca9b41ab27835114b859eb02 status=0
+2014-04-01 11:11:20 updateWallet 2d5520186f72a796625f1bf5461f8cd7ab4bdee7ca9b41ab27835114b859eb02 0
+2014-04-01 11:11:20 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:20 SetBestChain: new best=0000000031e3b7e9b2015e19446cecd38e2beab10df50d55d25036dc496a0d37  height=289  log2_work=40.781382  tx=290  date=2014-04-01 11:11:19 progress=0.000003
+2014-04-01 11:11:20 ProcessBlock: ACCEPTED
+2014-04-01 11:11:20    inWallet=1 inModel=0 Index=3-3 showTransaction=1 derivedStatus=0
+2014-04-01 11:11:20 CreateNewBlock(): total size 1000
+2014-04-01 11:11:20 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:20 CreateNewBlock(): total size 1000
+2014-04-01 11:11:20 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:20 trying connection 88.198.11.51:11071 lastseen=254.7hrs
+2014-04-01 11:11:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:20 CreateNewBlock(): total size 1000
+2014-04-01 11:11:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:20 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:21 received getdata for: block 0000000031e3b7e9b2015e19446cecd38e2beab10df50d55d25036dc496a0d37
+2014-04-01 11:11:21 received getdata for: block 0000000031e3b7e9b2015e19446cecd38e2beab10df50d55d25036dc496a0d37
+2014-04-01 11:11:21 received getdata for: block 0000000031e3b7e9b2015e19446cecd38e2beab10df50d55d25036dc496a0d37
+2014-04-01 11:11:21 received getdata for: block 0000000031e3b7e9b2015e19446cecd38e2beab10df50d55d25036dc496a0d37
+2014-04-01 11:11:21 received getdata for: block 0000000031e3b7e9b2015e19446cecd38e2beab10df50d55d25036dc496a0d37
+2014-04-01 11:11:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:21 received block 000000001f4c57f621a6e884b8424b25c561ab6fb8ecf3dda5884cebeed23cb0
+2014-04-01 11:11:21 ProcessBlock: ACCEPTED
+2014-04-01 11:11:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:21 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:22 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:23 Flushing wallet.dat
+2014-04-01 11:11:23 Flushed wallet.dat 103ms
+2014-04-01 11:11:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:23 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:24 received block 000000001f09cd1a8f0d65ac97fa4485341eecf7ccaa80434a8a135cd1e4eae3
+2014-04-01 11:11:24 REORGANIZE: Disconnect 1 blocks; 000000002e960d542396136b366851dbd299f600152fdee9e2ee42f35c29bbaf..
+2014-04-01 11:11:24 REORGANIZE: Connect 2 blocks; ..000000001f09cd1a8f0d65ac97fa4485341eecf7ccaa80434a8a135cd1e4eae3
+2014-04-01 11:11:24 Committing 3 changed transactions to coin database...
+2014-04-01 11:11:24 SetBestChain: new best=000000001f09cd1a8f0d65ac97fa4485341eecf7ccaa80434a8a135cd1e4eae3  height=290  log2_work=40.794438  tx=291  date=2014-04-01 11:11:19 progress=0.000003
+2014-04-01 11:11:24 NotifyTransactionChanged 2d5520186f72a796625f1bf5461f8cd7ab4bdee7ca9b41ab27835114b859eb02 status=1
+2014-04-01 11:11:24 updateWallet 2d5520186f72a796625f1bf5461f8cd7ab4bdee7ca9b41ab27835114b859eb02 1
+2014-04-01 11:11:24 ProcessBlock: ACCEPTED
+2014-04-01 11:11:24    inWallet=1 inModel=1 Index=3-4 showTransaction=0 derivedStatus=2
+2014-04-01 11:11:24 CreateNewBlock(): total size 1000
+2014-04-01 11:11:24 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:24 CreateNewBlock(): total size 1000
+2014-04-01 11:11:24 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:24 CreateNewBlock(): total size 1000
+2014-04-01 11:11:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:24 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:25 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:25 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:25 connection timeout
+2014-04-01 11:11:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:25 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:26 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:11:26 received block 000000001fac1f0d4de1e8e45c607cea5846d21928bed3c9556d14f59c10cf37
+2014-04-01 11:11:26 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:27 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:27 SetBestChain: new best=000000001fac1f0d4de1e8e45c607cea5846d21928bed3c9556d14f59c10cf37  height=291  log2_work=40.807377  tx=292  date=2014-04-01 11:11:22 progress=0.000003
+2014-04-01 11:11:27 ProcessBlock: ACCEPTED
+2014-04-01 11:11:27 CreateNewBlock(): total size 1000
+2014-04-01 11:11:27 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:27 CreateNewBlock(): total size 1000
+2014-04-01 11:11:27 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:27 CreateNewBlock(): total size 1000
+2014-04-01 11:11:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:27 received block 000000003245014f18893abcaeb21cd349821e7164c012e6967260ede3b60493
+2014-04-01 11:11:27 ProcessBlock: ACCEPTED
+2014-04-01 11:11:27 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:27 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:27 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:28 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:28 received block 0000000008eeccbc0fd0990832e8b02f8225a4c3e61d85421ee2e8e0e442f88f
+2014-04-01 11:11:28 REORGANIZE: Disconnect 1 blocks; 000000001f09cd1a8f0d65ac97fa4485341eecf7ccaa80434a8a135cd1e4eae3..
+2014-04-01 11:11:28 REORGANIZE: Connect 2 blocks; ..0000000008eeccbc0fd0990832e8b02f8225a4c3e61d85421ee2e8e0e442f88f
+2014-04-01 11:11:29 Committing 3 changed transactions to coin database...
+2014-04-01 11:11:29 SetBestChain: new best=0000000008eeccbc0fd0990832e8b02f8225a4c3e61d85421ee2e8e0e442f88f  height=292  log2_work=40.820201  tx=293  date=2014-04-01 11:11:25 progress=0.000003
+2014-04-01 11:11:29 ProcessBlock: ACCEPTED
+2014-04-01 11:11:29 CreateNewBlock(): total size 1000
+2014-04-01 11:11:29 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:29 CreateNewBlock(): total size 1000
+2014-04-01 11:11:29 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:29 CreateNewBlock(): total size 1000
+2014-04-01 11:11:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:29 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:29 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:29 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:29 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:30 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:31 received block 000000000ae0dd6d765bf777d43bc12ad0d59c877437b2d03d8b5fcc1d019183
+2014-04-01 11:11:31 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:31 SetBestChain: new best=000000000ae0dd6d765bf777d43bc12ad0d59c877437b2d03d8b5fcc1d019183  height=293  log2_work=40.832912  tx=294  date=2014-04-01 11:11:26 progress=0.000003
+2014-04-01 11:11:31 ProcessBlock: ACCEPTED
+2014-04-01 11:11:31 CreateNewBlock(): total size 1000
+2014-04-01 11:11:31 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:31 CreateNewBlock(): total size 1000
+2014-04-01 11:11:31 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:31 CreateNewBlock(): total size 1000
+2014-04-01 11:11:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:31 ThreadRPCServer method=getblockcount
+2014-04-01 11:11:31 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:31 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:31 connection timeout
+2014-04-01 11:11:32 trying connection 50.42.35.91:11071 lastseen=4.3hrs
+2014-04-01 11:11:34 received block 000000001ccac060d18740be0b3814f5487685ac1f1185da15a4a4dc849a30fc
+2014-04-01 11:11:34 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:34 SetBestChain: new best=000000001ccac060d18740be0b3814f5487685ac1f1185da15a4a4dc849a30fc  height=294  log2_work=40.845512  tx=295  date=2014-04-01 11:11:29 progress=0.000003
+2014-04-01 11:11:34 ProcessBlock: ACCEPTED
+2014-04-01 11:11:34 CreateNewBlock(): total size 1000
+2014-04-01 11:11:34 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:34 CreateNewBlock(): total size 1000
+2014-04-01 11:11:34 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:35 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:35 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:35 received block 000000002245cb6f572a9a2d7faa2e26dcb9106e7f62396a52e829118f906ce2
+2014-04-01 11:11:35 Committing 1 changed transactions to coin database...
+2014-04-01 11:11:35 SetBestChain: new best=000000002245cb6f572a9a2d7faa2e26dcb9106e7f62396a52e829118f906ce2  height=295  log2_work=40.858003  tx=296  date=2014-04-01 11:11:32 progress=0.000003
+2014-04-01 11:11:35 ProcessBlock: ACCEPTED
+2014-04-01 11:11:35 CreateNewBlock(): total size 1000
+2014-04-01 11:11:35 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:35 CreateNewBlock(): total size 1000
+2014-04-01 11:11:35 Running MatrixcoinMiner with 1 transactions in block (188 bytes)
+2014-04-01 11:11:35 getblocks 295 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:35 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:35 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:36 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:11:37 connection timeout
+2014-04-01 11:11:37 trying connection 98.183.186.87:11071 lastseen=2.1hrs
+2014-04-01 11:11:38 connected 98.183.186.87:11071
+2014-04-01 11:11:38 send version message: version 70001, blocks=295, us=[2001:0:9d38:6ab8:34d7:e562:b92f:fe95]:11071, them=98.183.186.87:11071, peer=98.183.186.87:11071
+2014-04-01 11:11:38 Added time data, samples 11, offset -3 (+0 minutes)
+2014-04-01 11:11:38 nTimeOffset = +0  (+0 minutes)
+2014-04-01 11:11:38 Moving 98.183.186.87:11071 to tried
+2014-04-01 11:11:38 receive version message: /Satoshi:0.8.6/: version 70001, blocks=295, us=70.208.1.106:2931, them=98.183.186.87:11071, peer=98.183.186.87:11071
+2014-04-01 11:11:38 trying connection 89.168.164.238:11071 lastseen=2.7hrs
+2014-04-01 11:11:39 Added 1 addresses from 98.183.186.87: 6 tried, 616 new
+2014-04-01 11:11:39 addcon thread interrupt
+2014-04-01 11:11:39 msghand thread interrupt
+2014-04-01 11:11:39 dumpaddr thread stop
+2014-04-01 11:11:39 net thread interrupt
+2014-04-01 11:11:43 connection timeout
+2014-04-01 11:11:43 opencon thread interrupt
+2014-04-01 11:11:43 Shutdown : In progress...
+2014-04-01 11:11:43 keypool return 8
+2014-04-01 11:11:43 Flush(false)
+2014-04-01 11:11:43 DBFlush(false) ended               0ms
+2014-04-01 11:11:43 StopNode()
+2014-04-01 11:11:43 MatrixcoinMiner terminated
+2014-04-01 11:11:43 keypool return 4
+2014-04-01 11:11:43 MatrixcoinMiner terminated
+2014-04-01 11:11:43 keypool return 6
+2014-04-01 11:11:43 Flushed 622 addresses to peers.dat  21ms
+2014-04-01 11:11:43 Committing 0 changed transactions to coin database...
+2014-04-01 11:11:43 Flush(true)
+2014-04-01 11:11:43 wallet.dat refcount=0
+2014-04-01 11:11:43 wallet.dat checkpoint
+2014-04-01 11:11:43 wallet.dat detach
+2014-04-01 11:11:43 wallet.dat closed
+2014-04-01 11:11:43 DBFlush(true) ended              93ms
+2014-04-01 11:11:43 Shutdown : done
+2014-04-01 11:12:07 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-01 11:12:07 Matrixcoin version v0.8.6.0-unk-beta (Apr  1 2014, 00:41:47)
+2014-04-01 11:12:07 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-04-01 11:12:07 Default data directory .
+2014-04-01 11:12:07 Using data directory .
+2014-04-01 11:12:07 Using at most 125 connections (2048 file descriptors available)
+2014-04-01 11:12:07 Using 4 threads for script verification
+2014-04-01 11:12:07 init message: Verifying wallet...
+2014-04-01 11:12:07 dbenv.open LogDir=.\database ErrorFile=.\db.log
+2014-04-01 11:12:07 Bound to [::]:11071
+2014-04-01 11:12:07 Bound to 0.0.0.0:11071
+2014-04-01 11:12:07 init message: Loading block index...
+2014-04-01 11:12:07 Opening LevelDB in .\blocks\index
+2014-04-01 11:12:07 Opened LevelDB successfully
+2014-04-01 11:12:07 Opening LevelDB in .\chainstate
+2014-04-01 11:12:07 Opened LevelDB successfully
+2014-04-01 11:12:07 LoadBlockIndexDB(): last block file = 0
+2014-04-01 11:12:07 LoadBlockIndexDB(): last block file info: CBlockFileInfo(blocks=301, size=66026, heights=0...295, time=2014-03-30...2014-04-01)
+2014-04-01 11:12:07 LoadBlockIndexDB(): transaction index disabled
+2014-04-01 11:12:07 LoadBlockIndexDB(): hashBestChain=000000002245cb6f572a9a2d7faa2e26dcb9106e7f62396a52e829118f906ce2  height=295 date=2014-04-01 11:11:32
+2014-04-01 11:12:07 init message: Verifying blocks...
+2014-04-01 11:12:07 Verifying last 288 blocks at level 3
+2014-04-01 11:12:07 No coin database inconsistencies in last 289 blocks (289 transactions)
+2014-04-01 11:12:07  block index             167ms
+2014-04-01 11:12:07 init message: Loading wallet...
+2014-04-01 11:12:07 nFileVersion = 80600
+2014-04-01 11:12:07  wallet                  548ms
+2014-04-01 11:12:07 init message: Loading addresses...
+2014-04-01 11:12:07 Loaded 622 addresses from peers.dat  1ms
+2014-04-01 11:12:08 mapBlockIndex.size() = 301
+2014-04-01 11:12:08 nBestHeight = 295
+2014-04-01 11:12:08 setKeyPool.size() = 103
+2014-04-01 11:12:09 mapWallet.size() = 24
+2014-04-01 11:12:09 mapAddressBook.size() = 6
+2014-04-01 11:12:09 AddLocal([2600:100e:b10a:3f30:64cc:a441:4bbc:2d40]:11071,1)
+2014-04-01 11:12:09 AddLocal([2600:100e:b10a:3f30:b132:917d:8f1:f7e5]:11071,1)
+2014-04-01 11:12:09 AddLocal([2001:0:9d38:6ab8:34d7:e562:b92f:fe95]:11071,1)
+2014-04-01 11:12:09 dnsseed thread start
+2014-04-01 11:12:09 Loading addresses from DNS seeds (could take a while)
+2014-04-01 11:12:09 0 addresses found from DNS seeds
+2014-04-01 11:12:09 dnsseed thread exit
+2014-04-01 11:12:09 addcon thread start
+2014-04-01 11:12:09 dumpaddr thread start
+2014-04-01 11:12:09 net thread start
+2014-04-01 11:12:09 msghand thread start
+2014-04-01 11:12:09 opencon thread start
+2014-04-01 11:12:09 upnp thread start
+2014-04-01 11:12:09 init message: Done loading
+2014-04-01 11:12:09 trying connection 107.170.206.242:11071 lastseen=360097.4hrs
+2014-04-01 11:12:09 refreshWallet
+2014-04-01 11:12:09 connected 107.170.206.242:11071
+2014-04-01 11:12:09 send version message: version 70001, blocks=295, us=[2001:0:9d38:6ab8:34d7:e562:b92f:fe95]:11071, them=107.170.206.242:11071, peer=107.170.206.242:11071
+2014-04-01 11:12:09 Added time data, samples 2, offset -1 (+0 minutes)
+2014-04-01 11:12:09 receive version message: /Satoshi:0.8.6/: version 70001, blocks=300, us=70.208.1.106:6801, them=107.170.206.242:11071, peer=107.170.206.242:11071
+2014-04-01 11:12:09 trying connection 208.66.73.194:11071 lastseen=197.1hrs
+2014-04-01 11:12:10 received block 0000000016ab74fdb8458a08829b09c6163f109ec168fe3303458e11af2a663a
+2014-04-01 11:12:10 Committing 290 changed transactions to coin database...
+2014-04-01 11:12:10 SetBestChain: new best=0000000016ab74fdb8458a08829b09c6163f109ec168fe3303458e11af2a663a  height=296  log2_work=40.870387  tx=297  date=2014-04-01 11:11:38 progress=0.000003
+2014-04-01 11:12:10 ProcessBlock: ACCEPTED
+2014-04-01 11:12:10 received block 000000003b212d4c8e647c0d04b07aec58aacdec994d2668aec851d58d6404ab
+2014-04-01 11:12:10 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:10 SetBestChain: new best=000000003b212d4c8e647c0d04b07aec58aacdec994d2668aec851d58d6404ab  height=297  log2_work=40.882665  tx=298  date=2014-04-01 11:11:45 progress=0.000003
+2014-04-01 11:12:10 ProcessBlock: ACCEPTED
+2014-04-01 11:12:10 received block 0000000018a6149e4686bd78eb34106e0032fd318ee8cc09c880d6366216aa98
+2014-04-01 11:12:10 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:10 SetBestChain: new best=0000000018a6149e4686bd78eb34106e0032fd318ee8cc09c880d6366216aa98  height=298  log2_work=40.89484  tx=299  date=2014-04-01 11:11:52 progress=0.000003
+2014-04-01 11:12:10 ProcessBlock: ACCEPTED
+2014-04-01 11:12:10 received block 000000000636c073255f901471af4eb22d60ac9f9aea836471d4cf9dc85a05b8
+2014-04-01 11:12:10 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:10 SetBestChain: new best=000000000636c073255f901471af4eb22d60ac9f9aea836471d4cf9dc85a05b8  height=299  log2_work=40.906913  tx=300  date=2014-04-01 11:11:58 progress=0.000003
+2014-04-01 11:12:10 ProcessBlock: ACCEPTED
+2014-04-01 11:12:10 received block 000000001993831f9e12b10dcd61cea8b430c02d472cef04b0f83bb8ffe422ee
+2014-04-01 11:12:10 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:10 SetBestChain: new best=000000001993831f9e12b10dcd61cea8b430c02d472cef04b0f83bb8ffe422ee  height=300  log2_work=40.918885  tx=301  date=2014-04-01 11:12:02 progress=0.000003
+2014-04-01 11:12:10 ProcessBlock: ACCEPTED
+2014-04-01 11:12:11 received block 00000000369067177024da6f13de570352fc1396a622f0c9b255e5ef7283f194
+2014-04-01 11:12:11 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:11 SetBestChain: new best=00000000369067177024da6f13de570352fc1396a622f0c9b255e5ef7283f194  height=301  log2_work=40.930759  tx=302  date=2014-04-01 11:12:06 progress=0.000003
+2014-04-01 11:12:11 ProcessBlock: ACCEPTED
+2014-04-01 11:12:12 GetMyExternalIP() received [70.208.1.106] 70.208.1.106:0
+2014-04-01 11:12:12 GetMyExternalIP() returned 70.208.1.106
+2014-04-01 11:12:12 AddLocal(70.208.1.106:11071,4)
+2014-04-01 11:12:14 connection timeout
+2014-04-01 11:12:15 trying connection 62.163.9.155:11071 lastseen=2.5hrs
+2014-04-01 11:12:15 No valid UPnP IGDs found
+2014-04-01 11:12:15 upnp thread exit
+2014-04-01 11:12:19 received block 00000000033b0441e4df4f8fedb7fe871bb44d20fe6a2d5b5612242886873f56
+2014-04-01 11:12:19 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:19 SetBestChain: new best=00000000033b0441e4df4f8fedb7fe871bb44d20fe6a2d5b5612242886873f56  height=302  log2_work=40.942537  tx=303  date=2014-04-01 11:12:14 progress=0.000003
+2014-04-01 11:12:19 ProcessBlock: ACCEPTED
+2014-04-01 11:12:20 connection timeout
+2014-04-01 11:12:20 trying connection 98.183.186.87:11071 lastseen=0.0hrs
+2014-04-01 11:12:20 connected 98.183.186.87:11071
+2014-04-01 11:12:20 send version message: version 70001, blocks=302, us=70.208.1.106:11071, them=98.183.186.87:11071, peer=98.183.186.87:11071
+2014-04-01 11:12:20 Added time data, samples 3, offset -1 (+0 minutes)
+2014-04-01 11:12:20 receive version message: /Satoshi:0.8.6/: version 70001, blocks=302, us=70.208.1.106:7512, them=98.183.186.87:11071, peer=98.183.186.87:11071
+2014-04-01 11:12:21 trying connection 54.194.99.126:11071 lastseen=0.2hrs
+2014-04-01 11:12:21 connected 54.194.99.126:11071
+2014-04-01 11:12:21 send version message: version 70001, blocks=302, us=70.208.1.106:11071, them=54.194.99.126:11071, peer=54.194.99.126:11071
+2014-04-01 11:12:21 received block 000000002d858e31f2acbf6b3d926d4e28b6c68559f5025ef6affd6bbc45e9b4
+2014-04-01 11:12:21 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:21 SetBestChain: new best=000000002d858e31f2acbf6b3d926d4e28b6c68559f5025ef6affd6bbc45e9b4  height=303  log2_work=40.954218  tx=304  date=2014-04-01 11:12:18 progress=0.000003
+2014-04-01 11:12:21 ProcessBlock: ACCEPTED
+2014-04-01 11:12:21 Added time data, samples 4, offset +0 (+0 minutes)
+2014-04-01 11:12:21 receive version message: /Satoshi:0.8.6/: version 70001, blocks=8581, us=70.208.1.106:7514, them=54.194.99.126:11071, peer=54.194.99.126:11071
+2014-04-01 11:12:21 trying connection 24.237.35.104:11071 lastseen=2.4hrs
+2014-04-01 11:12:22 received getdata for: block 000000002d858e31f2acbf6b3d926d4e28b6c68559f5025ef6affd6bbc45e9b4
+2014-04-01 11:12:22 getblocks 1 to 000000002d858e31f2acbf6b3d926d4e28b6c68559f5025ef6affd6bbc45e9b4 limit 500
+2014-04-01 11:12:22   getblocks stopping at 303 000000002d858e31f2acbf6b3d926d4e28b6c68559f5025ef6affd6bbc45e9b4
+2014-04-01 11:12:22 Added 2 addresses from 54.194.99.126: 6 tried, 618 new
+2014-04-01 11:12:23 received getdata (63 invsz)
+2014-04-01 11:12:23 socket closed
+2014-04-01 11:12:23 disconnecting node 54.194.99.126:11071
+2014-04-01 11:12:25 received block 000000002f339c9d262cc82d2ae598b9686cfe88e15d82466399d9a18959ed11
+2014-04-01 11:12:25 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:25 SetBestChain: new best=000000002f339c9d262cc82d2ae598b9686cfe88e15d82466399d9a18959ed11  height=304  log2_work=40.965806  tx=305  date=2014-04-01 11:12:20 progress=0.000003
+2014-04-01 11:12:25 ProcessBlock: ACCEPTED
+2014-04-01 11:12:25 Added 2 addresses from 98.183.186.87: 6 tried, 620 new
+2014-04-01 11:12:26 connection timeout
+2014-04-01 11:12:27 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:12:28 received block 00000000315bb194dacdfcbeb781c09c7446c8774b964894f03857bf7780fd7d
+2014-04-01 11:12:28 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:28 SetBestChain: new best=00000000315bb194dacdfcbeb781c09c7446c8774b964894f03857bf7780fd7d  height=305  log2_work=40.977302  tx=306  date=2014-04-01 11:12:24 progress=0.000003
+2014-04-01 11:12:28 ProcessBlock: ACCEPTED
+2014-04-01 11:12:32 connection timeout
+2014-04-01 11:12:32 trying connection 75.130.160.109:11071 lastseen=2.7hrs
+2014-04-01 11:12:33 received block 000000003d102be5c5391173dc9f154f0f711cc2a4203b1222eaac197857c385
+2014-04-01 11:12:33 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:33 SetBestChain: new best=000000003d102be5c5391173dc9f154f0f711cc2a4203b1222eaac197857c385  height=306  log2_work=40.988707  tx=307  date=2014-04-01 11:12:27 progress=0.000003
+2014-04-01 11:12:33 ProcessBlock: ACCEPTED
+2014-04-01 11:12:34 received block 0000000006546060f4be18140f05672b3640df749f00d81e3e1a3fe32b33a3f8
+2014-04-01 11:12:35 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:35 SetBestChain: new best=0000000006546060f4be18140f05672b3640df749f00d81e3e1a3fe32b33a3f8  height=307  log2_work=41.000022  tx=308  date=2014-04-01 11:12:31 progress=0.000003
+2014-04-01 11:12:35 ProcessBlock: ACCEPTED
+2014-04-01 11:12:36 received block 000000002453e757cff3806e98055d121ac88da355b2a7241a830ef639936649
+2014-04-01 11:12:36 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:36 SetBestChain: new best=000000002453e757cff3806e98055d121ac88da355b2a7241a830ef639936649  height=308  log2_work=41.011249  tx=309  date=2014-04-01 11:12:33 progress=0.000003
+2014-04-01 11:12:36 ProcessBlock: ACCEPTED
+2014-04-01 11:12:37 connection timeout
+2014-04-01 11:12:38 trying connection 68.185.171.168:11071 lastseen=209.6hrs
+2014-04-01 11:12:43 connection timeout
+2014-04-01 11:12:43 trying connection 61.55.141.195:11071 lastseen=4.0hrs
+2014-04-01 11:12:43 received block 000000000106a35f1b46d7684d253c4dc71c887c3d600768a7231ce51950a61d
+2014-04-01 11:12:44 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:44 SetBestChain: new best=000000000106a35f1b46d7684d253c4dc71c887c3d600768a7231ce51950a61d  height=309  log2_work=41.02239  tx=310  date=2014-04-01 11:12:38 progress=0.000003
+2014-04-01 11:12:44 ProcessBlock: ACCEPTED
+2014-04-01 11:12:47 received block 000000002893a1bfc4aaee817a6a2b6b37a24dc54d9298727e545f25d6ba8988
+2014-04-01 11:12:47 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:47 SetBestChain: new best=000000002893a1bfc4aaee817a6a2b6b37a24dc54d9298727e545f25d6ba8988  height=310  log2_work=41.033445  tx=311  date=2014-04-01 11:12:43 progress=0.000003
+2014-04-01 11:12:47 ProcessBlock: ACCEPTED
+2014-04-01 11:12:48 connection timeout
+2014-04-01 11:12:49 trying connection 50.42.35.91:11071 lastseen=2.1hrs
+2014-04-01 11:12:50 received block 0000000021dc1d378900a9d932de25819178fda1367b39b5349af8fe68a4822f
+2014-04-01 11:12:50 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:50 SetBestChain: new best=0000000021dc1d378900a9d932de25819178fda1367b39b5349af8fe68a4822f  height=311  log2_work=41.044416  tx=312  date=2014-04-01 11:12:45 progress=0.000003
+2014-04-01 11:12:50 ProcessBlock: ACCEPTED
+2014-04-01 11:12:54 connection timeout
+2014-04-01 11:12:54 received block 000000001fdffd4b16aea02d6d42978816bb7b11b7060e47da10100cf159c31a
+2014-04-01 11:12:54 trying connection 31.16.2.204:11071 lastseen=2.1hrs
+2014-04-01 11:12:54 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:54 SetBestChain: new best=000000001fdffd4b16aea02d6d42978816bb7b11b7060e47da10100cf159c31a  height=312  log2_work=41.055304  tx=313  date=2014-04-01 11:12:47 progress=0.000003
+2014-04-01 11:12:54 ProcessBlock: ACCEPTED
+2014-04-01 11:12:55 connected 31.16.2.204:11071
+2014-04-01 11:12:55 send version message: version 70001, blocks=312, us=70.208.1.106:11071, them=31.16.2.204:11071, peer=31.16.2.204:11071
+2014-04-01 11:12:55 getblocks -1 to 0000000000000000000000000000000000000000000000000000000000000000 limit 500
+2014-04-01 11:12:55 Added time data, samples 5, offset -1 (+0 minutes)
+2014-04-01 11:12:55 nTimeOffset = -1  (+0 minutes)
+2014-04-01 11:12:55 Moving 31.16.2.204:11071 to tried
+2014-04-01 11:12:55 receive version message: /Satoshi:0.8.6/: version 70001, blocks=312, us=70.208.1.106:49550, them=31.16.2.204:11071, peer=31.16.2.204:11071
+2014-04-01 11:12:55 trying connection 91.229.174.166:11071 lastseen=2.2hrs
+2014-04-01 11:12:56 Added 2 addresses from 31.16.2.204: 7 tried, 621 new
+2014-04-01 11:12:58 received block 000000001e1fc6afb08bd745aebbd59f0e692ae922c4ad26405cdf334f611e90
+2014-04-01 11:12:58 Committing 1 changed transactions to coin database...
+2014-04-01 11:12:58 SetBestChain: new best=000000001e1fc6afb08bd745aebbd59f0e692ae922c4ad26405cdf334f611e90  height=313  log2_work=41.066111  tx=314  date=2014-04-01 11:12:53 progress=0.000003
+2014-04-01 11:12:58 ProcessBlock: ACCEPTED
+2014-04-01 11:13:00 connection timeout
+2014-04-01 11:13:01 trying connection 70.88.98.242:11071 lastseen=214.5hrs
+2014-04-01 11:13:04 received block 0000000011b3fbc97dc81bfed3b50bdadbeffd9664acb5323324d09b0b2bcbc8
+2014-04-01 11:13:04 Committing 1 changed transactions to coin database...
+2014-04-01 11:13:04 SetBestChain: new best=0000000011b3fbc97dc81bfed3b50bdadbeffd9664acb5323324d09b0b2bcbc8  height=314  log2_work=41.076838  tx=315  date=2014-04-01 11:12:56 progress=0.000003
+2014-04-01 11:13:04 ProcessBlock: ACCEPTED
+2014-04-01 11:13:06 connection timeout
+2014-04-01 11:13:06 trying connection 221.121.207.215:11071 lastseen=11.5hrs
+2014-04-01 11:13:07 received block 000000001397c09f32b40775fc530af8b60faf7dcac8fd0c61bf9294d018193b
+2014-04-01 11:13:07 ProcessBlock: ORPHAN BLOCK, prev=000000003f2b017845bb7dc0b026843659a22e0c6feae85474a1c65c5ed0974c
+2014-04-01 11:13:07 received block 000000003f2b017845bb7dc0b026843659a22e0c6feae85474a1c65c5ed0974c
+2014-04-01 11:13:07 Committing 1 changed transactions to coin database...
+2014-04-01 11:13:07 SetBestChain: new best=000000003f2b017845bb7dc0b026843659a22e0c6feae85474a1c65c5ed0974c  height=315  log2_work=41.087485  tx=316  date=2014-04-01 11:12:58 progress=0.000003
+2014-04-01 11:13:07 Committing 1 changed transactions to coin database...
+2014-04-01 11:13:07 SetBestChain: new best=000000001397c09f32b40775fc530af8b60faf7dcac8fd0c61bf9294d018193b  height=316  log2_work=41.098054  tx=317  date=2014-04-01 11:13:00 progress=0.000003
+2014-04-01 11:13:07 ProcessBlock: ACCEPTED
+2014-04-01 11:13:10 received block 000000000ee9e3fdecd8b603a0b68ad477f734f530bbe9fd4a0622ce50896e85
+2014-04-01 11:13:10 Committing 1 changed transactions to coin database...
+2014-04-01 11:13:10 SetBestChain: new best=000000000ee9e3fdecd8b603a0b68ad477f734f530bbe9fd4a0622ce50896e85  height=317  log2_work=41.108546  tx=318  date=2014-04-01 11:13:02 progress=0.000003
+2014-04-01 11:13:10 ProcessBlock: ACCEPTED
+2014-04-01 11:13:11 connection timeout
+2014-04-01 11:13:12 trying connection 180.252.99.37:11071 lastseen=2.0hrs
