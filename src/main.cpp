@@ -2760,7 +2760,7 @@ bool InitBlockIndex() {
     // Only add the genesis block if not reindexing (in which case we reuse the one already on disk)
     if (!fReindex) {
         // Genesis block
-        const char* pszTimestamp = "Mtgox is down";
+        const char* pszTimestamp = "April Fools";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2772,13 +2772,13 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1396169106;
+        block.nTime    = 1396383172;
         block.nBits    = 486604799;
         block.nNonce   = 1291458536;
 
         if (fTestNet)
         {
-            block.nTime    = 1396169106;
+            block.nTime    = 1396383172;
             block.nNonce   = 1291458536;
         }
 
