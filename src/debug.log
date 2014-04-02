@@ -1,0 +1,384 @@
+2014-04-02 03:39:09 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-02 03:39:09 Matrixcoin version v0.8.6.0-unk-beta (Apr  1 2014, 15:03:35)
+2014-04-02 03:39:09 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-04-02 03:39:09 Default data directory .
+2014-04-02 03:39:09 Using data directory .
+2014-04-02 03:39:09 Using at most 125 connections (2048 file descriptors available)
+2014-04-02 03:39:09 Using 4 threads for script verification
+2014-04-02 03:39:09 init message: Verifying wallet...
+2014-04-02 03:39:09 dbenv.open LogDir=.\database ErrorFile=.\db.log
+2014-04-02 03:39:10 Unable to bind to [::]:11072 on this computer. Matrixcoin is probably already running.
+2014-04-02 03:39:10 Unable to bind to 0.0.0.0:11072 on this computer. Matrixcoin is probably already running.
+2014-04-02 03:39:10 Error: Unable to bind to 0.0.0.0:11072 on this computer. Matrixcoin is probably already running.
+2014-04-02 03:39:10 Error: Failed to listen on any port. Use -listen=0 if you want this.
+2014-04-02 03:39:10 Shutdown : In progress...
+2014-04-02 03:39:10 Flush(false)
+2014-04-02 03:39:10 DBFlush(false) ended               0ms
+2014-04-02 03:39:10 StopNode()
+2014-04-02 03:39:10 Flushed 0 addresses to peers.dat  36ms
+2014-04-02 03:39:10 Flush(true)
+2014-04-02 03:39:10 DBFlush(true) ended               0ms
+2014-04-02 03:39:10 Shutdown : done
+2014-04-02 03:39:18 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-02 03:39:18 Matrixcoin version v0.8.6.0-unk-beta (Apr  1 2014, 15:03:35)
+2014-04-02 03:39:18 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-04-02 03:39:18 Default data directory .
+2014-04-02 03:39:18 Using data directory .
+2014-04-02 03:39:18 Using at most 125 connections (2048 file descriptors available)
+2014-04-02 03:39:18 Using 4 threads for script verification
+2014-04-02 03:39:18 init message: Verifying wallet...
+2014-04-02 03:39:18 dbenv.open LogDir=.\database ErrorFile=.\db.log
+2014-04-02 03:39:19 Renamed wallet.dat to wallet.1396409958.bak
+2014-04-02 03:39:19 Error: Salvage found errors, all data may not be recoverable.
+2014-04-02 03:39:19 Salvage(aggressive) found no records in wallet.1396409958.bak.
+2014-04-02 03:39:19 Error: wallet.dat corrupt, salvage failed
+2014-04-02 03:39:19 Shutdown : In progress...
+2014-04-02 03:39:19 Flush(false)
+2014-04-02 03:39:19 DBFlush(false) ended               0ms
+2014-04-02 03:39:19 StopNode()
+2014-04-02 03:39:19 Flushed 0 addresses to peers.dat  23ms
+2014-04-02 03:39:19 Flush(true)
+2014-04-02 03:39:19 DBFlush(true) ended               0ms
+2014-04-02 03:39:19 Shutdown : done
+2014-04-02 03:40:00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-02 03:40:00 Matrixcoin version v0.8.6.0-unk-beta (Apr  1 2014, 15:03:35)
+2014-04-02 03:40:00 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-04-02 03:40:00 Default data directory .
+2014-04-02 03:40:00 Using data directory .
+2014-04-02 03:40:00 Using at most 125 connections (2048 file descriptors available)
+2014-04-02 03:40:00 Using 4 threads for script verification
+2014-04-02 03:40:00 init message: Verifying wallet...
+2014-04-02 03:40:00 dbenv.open LogDir=.\database ErrorFile=.\db.log
+2014-04-02 03:40:00 Bound to [::]:11072
+2014-04-02 03:40:00 Bound to 0.0.0.0:11072
+2014-04-02 03:40:00 init message: Loading block index...
+2014-04-02 03:40:00 Opening LevelDB in .\blocks\index
+2014-04-02 03:40:00 Opened LevelDB successfully
+2014-04-02 03:40:00 Opening LevelDB in .\chainstate
+2014-04-02 03:40:00 Opened LevelDB successfully
+2014-04-02 03:40:00 LoadBlockIndexDB(): last block file = 0
+2014-04-02 03:40:00 LoadBlockIndexDB(): transaction index disabled
+2014-04-02 03:40:00 Initializing databases...
+2014-04-02 03:40:00 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:40:00 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:40:00 dd0912231a58dcbb2c23e61e3cd727d5427a4f34291e8e2203f1442c752a8458
+2014-04-02 03:42:22 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-02 03:42:22 Matrixcoin version v0.8.6.0-unk-beta (Apr  1 2014, 15:03:35)
+2014-04-02 03:42:22 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-04-02 03:42:22 Default data directory .
+2014-04-02 03:42:22 Using data directory .
+2014-04-02 03:42:22 Using at most 125 connections (2048 file descriptors available)
+2014-04-02 03:42:22 Using 4 threads for script verification
+2014-04-02 03:42:22 init message: Verifying wallet...
+2014-04-02 03:42:22 dbenv.open LogDir=.\database ErrorFile=.\db.log
+2014-04-02 03:42:22 Bound to [::]:11072
+2014-04-02 03:42:22 Bound to 0.0.0.0:11072
+2014-04-02 03:42:22 init message: Loading block index...
+2014-04-02 03:42:22 Opening LevelDB in .\blocks\index
+2014-04-02 03:42:22 Opened LevelDB successfully
+2014-04-02 03:42:22 Opening LevelDB in .\chainstate
+2014-04-02 03:42:22 Opened LevelDB successfully
+2014-04-02 03:42:22 LoadBlockIndexDB(): last block file = 0
+2014-04-02 03:42:22 LoadBlockIndexDB(): transaction index disabled
+2014-04-02 03:42:22 Initializing databases...
+2014-04-02 03:42:22 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:42:22 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:42:22 dd0912231a58dcbb2c23e61e3cd727d5427a4f34291e8e2203f1442c752a8458
+2014-04-02 03:44:41 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-02 03:44:41 Matrixcoin version v0.8.6.0-unk-beta (Apr  1 2014, 15:03:35)
+2014-04-02 03:44:41 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-04-02 03:44:41 Default data directory .
+2014-04-02 03:44:41 Using data directory .
+2014-04-02 03:44:41 Using at most 125 connections (2048 file descriptors available)
+2014-04-02 03:44:41 Using 4 threads for script verification
+2014-04-02 03:44:41 init message: Verifying wallet...
+2014-04-02 03:44:41 dbenv.open LogDir=.\database ErrorFile=.\db.log
+2014-04-02 03:44:41 Bound to [::]:11072
+2014-04-02 03:44:41 Bound to 0.0.0.0:11072
+2014-04-02 03:44:41 init message: Loading block index...
+2014-04-02 03:44:41 Opening LevelDB in .\blocks\index
+2014-04-02 03:44:41 Opened LevelDB successfully
+2014-04-02 03:44:41 Opening LevelDB in .\chainstate
+2014-04-02 03:44:41 Opened LevelDB successfully
+2014-04-02 03:44:41 LoadBlockIndexDB(): last block file = 0
+2014-04-02 03:44:41 LoadBlockIndexDB(): transaction index disabled
+2014-04-02 03:44:41 Initializing databases...
+2014-04-02 03:44:41 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:44:41 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:44:41 dd0912231a58dcbb2c23e61e3cd727d5427a4f34291e8e2203f1442c752a8458
+2014-04-02 03:47:05 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-04-02 03:47:05 Matrixcoin version v0.8.6.0-unk-beta (Apr  1 2014, 15:03:35)
+2014-04-02 03:47:05 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-04-02 03:47:05 Default data directory .
+2014-04-02 03:47:05 Using data directory .
+2014-04-02 03:47:05 Using at most 125 connections (2048 file descriptors available)
+2014-04-02 03:47:05 Using 4 threads for script verification
+2014-04-02 03:47:05 init message: Verifying wallet...
+2014-04-02 03:47:05 dbenv.open LogDir=.\database ErrorFile=.\db.log
+2014-04-02 03:47:05 Bound to [::]:11072
+2014-04-02 03:47:05 Bound to 0.0.0.0:11072
+2014-04-02 03:47:05 init message: Loading block index...
+2014-04-02 03:47:05 Opening LevelDB in .\blocks\index
+2014-04-02 03:47:05 Opened LevelDB successfully
+2014-04-02 03:47:05 Opening LevelDB in .\chainstate
+2014-04-02 03:47:05 Opened LevelDB successfully
+2014-04-02 03:47:05 LoadBlockIndexDB(): last block file = 0
+2014-04-02 03:47:05 LoadBlockIndexDB(): transaction index disabled
+2014-04-02 03:47:05 Initializing databases...
+2014-04-02 03:47:05 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:47:05 000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21
+2014-04-02 03:47:05 dd0912231a58dcbb2c23e61e3cd727d5427a4f34291e8e2203f1442c752a8458
+2014-04-02 03:47:05 CBlock(hash=000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=dd0912231a58dcbb2c23e61e3cd727d5427a4f34291e8e2203f1442c752a8458, nTime=1396395808, nBits=1d00ffff, nNonce=591705943, vtx=1)
+2014-04-02 03:47:05   CTransaction(hash=dd0912231a58dcbb2c23e61e3cd727d5427a4f34291e8e2203f1442c752a8458, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01040b417072696c20466f6f6c73)
+    CTxOut(nValue=50.00000000, scriptPubKey=04daf1b7215dee193ee2320b77a670)
+  vMerkleTree: dd0912231a58dcbb2c23e61e3cd727d5427a4f34291e8e2203f1442c752a8458 
+2014-04-02 03:47:05 Pre-allocating up to position 0x1000000 in blk00000.dat
+2014-04-02 03:47:05 SetBestChain: new best=000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21  height=0  log2_work=32.000022  tx=1  date=2014-04-01 23:43:28 progress=0.000000
+2014-04-02 03:47:05 init message: Verifying blocks...
+2014-04-02 03:47:05  block index              21ms
+2014-04-02 03:47:05 init message: Loading wallet...
+2014-04-02 03:47:05 nFileVersion = 80600
+2014-04-02 03:47:05 Performing wallet upgrade to 60000
+2014-04-02 03:47:07 keypool added key 1, size=1
+2014-04-02 03:47:07 keypool added key 2, size=2
+2014-04-02 03:47:07 keypool added key 3, size=3
+2014-04-02 03:47:07 keypool added key 4, size=4
+2014-04-02 03:47:07 keypool added key 5, size=5
+2014-04-02 03:47:07 keypool added key 6, size=6
+2014-04-02 03:47:07 keypool added key 7, size=7
+2014-04-02 03:47:07 keypool added key 8, size=8
+2014-04-02 03:47:07 keypool added key 9, size=9
+2014-04-02 03:47:07 keypool added key 10, size=10
+2014-04-02 03:47:07 keypool added key 11, size=11
+2014-04-02 03:47:07 keypool added key 12, size=12
+2014-04-02 03:47:07 keypool added key 13, size=13
+2014-04-02 03:47:07 keypool added key 14, size=14
+2014-04-02 03:47:07 keypool added key 15, size=15
+2014-04-02 03:47:07 keypool added key 16, size=16
+2014-04-02 03:47:07 keypool added key 17, size=17
+2014-04-02 03:47:08 keypool added key 18, size=18
+2014-04-02 03:47:08 keypool added key 19, size=19
+2014-04-02 03:47:08 keypool added key 20, size=20
+2014-04-02 03:47:08 keypool added key 21, size=21
+2014-04-02 03:47:08 keypool added key 22, size=22
+2014-04-02 03:47:08 keypool added key 23, size=23
+2014-04-02 03:47:08 keypool added key 24, size=24
+2014-04-02 03:47:08 keypool added key 25, size=25
+2014-04-02 03:47:08 keypool added key 26, size=26
+2014-04-02 03:47:08 keypool added key 27, size=27
+2014-04-02 03:47:08 keypool added key 28, size=28
+2014-04-02 03:47:08 keypool added key 29, size=29
+2014-04-02 03:47:08 keypool added key 30, size=30
+2014-04-02 03:47:08 keypool added key 31, size=31
+2014-04-02 03:47:08 keypool added key 32, size=32
+2014-04-02 03:47:09 keypool added key 33, size=33
+2014-04-02 03:47:09 keypool added key 34, size=34
+2014-04-02 03:47:09 keypool added key 35, size=35
+2014-04-02 03:47:09 keypool added key 36, size=36
+2014-04-02 03:47:09 keypool added key 37, size=37
+2014-04-02 03:47:09 keypool added key 38, size=38
+2014-04-02 03:47:09 keypool added key 39, size=39
+2014-04-02 03:47:09 keypool added key 40, size=40
+2014-04-02 03:47:09 keypool added key 41, size=41
+2014-04-02 03:47:09 keypool added key 42, size=42
+2014-04-02 03:47:09 keypool added key 43, size=43
+2014-04-02 03:47:09 keypool added key 44, size=44
+2014-04-02 03:47:10 keypool added key 45, size=45
+2014-04-02 03:47:10 keypool added key 46, size=46
+2014-04-02 03:47:10 keypool added key 47, size=47
+2014-04-02 03:47:10 keypool added key 48, size=48
+2014-04-02 03:47:10 keypool added key 49, size=49
+2014-04-02 03:47:10 keypool added key 50, size=50
+2014-04-02 03:47:10 keypool added key 51, size=51
+2014-04-02 03:47:10 keypool added key 52, size=52
+2014-04-02 03:47:10 keypool added key 53, size=53
+2014-04-02 03:47:10 keypool added key 54, size=54
+2014-04-02 03:47:10 keypool added key 55, size=55
+2014-04-02 03:47:10 keypool added key 56, size=56
+2014-04-02 03:47:11 keypool added key 57, size=57
+2014-04-02 03:47:11 keypool added key 58, size=58
+2014-04-02 03:47:11 keypool added key 59, size=59
+2014-04-02 03:47:11 keypool added key 60, size=60
+2014-04-02 03:47:11 keypool added key 61, size=61
+2014-04-02 03:47:11 keypool added key 62, size=62
+2014-04-02 03:47:11 keypool added key 63, size=63
+2014-04-02 03:47:11 keypool added key 64, size=64
+2014-04-02 03:47:11 keypool added key 65, size=65
+2014-04-02 03:47:11 keypool added key 66, size=66
+2014-04-02 03:47:11 keypool added key 67, size=67
+2014-04-02 03:47:11 keypool added key 68, size=68
+2014-04-02 03:47:11 keypool added key 69, size=69
+2014-04-02 03:47:12 keypool added key 70, size=70
+2014-04-02 03:47:12 keypool added key 71, size=71
+2014-04-02 03:47:12 keypool added key 72, size=72
+2014-04-02 03:47:12 keypool added key 73, size=73
+2014-04-02 03:47:12 keypool added key 74, size=74
+2014-04-02 03:47:12 keypool added key 75, size=75
+2014-04-02 03:47:12 keypool added key 76, size=76
+2014-04-02 03:47:12 keypool added key 77, size=77
+2014-04-02 03:47:12 keypool added key 78, size=78
+2014-04-02 03:47:12 keypool added key 79, size=79
+2014-04-02 03:47:12 keypool added key 80, size=80
+2014-04-02 03:47:12 keypool added key 81, size=81
+2014-04-02 03:47:12 keypool added key 82, size=82
+2014-04-02 03:47:12 keypool added key 83, size=83
+2014-04-02 03:47:13 keypool added key 84, size=84
+2014-04-02 03:47:13 keypool added key 85, size=85
+2014-04-02 03:47:13 keypool added key 86, size=86
+2014-04-02 03:47:13 keypool added key 87, size=87
+2014-04-02 03:47:13 keypool added key 88, size=88
+2014-04-02 03:47:13 keypool added key 89, size=89
+2014-04-02 03:47:13 keypool added key 90, size=90
+2014-04-02 03:47:13 keypool added key 91, size=91
+2014-04-02 03:47:13 keypool added key 92, size=92
+2014-04-02 03:47:13 keypool added key 93, size=93
+2014-04-02 03:47:13 keypool added key 94, size=94
+2014-04-02 03:47:13 keypool added key 95, size=95
+2014-04-02 03:47:13 keypool added key 96, size=96
+2014-04-02 03:47:13 keypool added key 97, size=97
+2014-04-02 03:47:13 keypool added key 98, size=98
+2014-04-02 03:47:14 keypool added key 99, size=99
+2014-04-02 03:47:14 keypool added key 100, size=100
+2014-04-02 03:47:14 keypool added key 101, size=101
+2014-04-02 03:47:14 keypool reserve 1
+2014-04-02 03:47:14 keypool keep 1
+2014-04-02 03:47:14  wallet                 9152ms
+2014-04-02 03:47:14 init message: Loading addresses...
+2014-04-02 03:47:14 Loaded 0 addresses from peers.dat  0ms
+2014-04-02 03:47:14 mapBlockIndex.size() = 1
+2014-04-02 03:47:14 nBestHeight = 0
+2014-04-02 03:47:14 setKeyPool.size() = 100
+2014-04-02 03:47:14 mapWallet.size() = 0
+2014-04-02 03:47:14 mapAddressBook.size() = 1
+2014-04-02 03:47:14 AddLocal([2600:100e:b110:e5eb:d4ab:1d6b:faf1:32ee]:11072,1)
+2014-04-02 03:47:14 AddLocal([2600:100e:b110:e5eb:3548:697e:41f7:c6fc]:11072,1)
+2014-04-02 03:47:14 AddLocal([2001:0:9d38:6ab8:c82:e052:b92f:ffaa]:11072,1)
+2014-04-02 03:47:14 dnsseed thread start
+2014-04-02 03:47:14 Loading addresses from DNS seeds (could take a while)
+2014-04-02 03:47:14 0 addresses found from DNS seeds
+2014-04-02 03:47:14 dnsseed thread exit
+2014-04-02 03:47:14 opencon thread start
+2014-04-02 03:47:14 net thread start
+2014-04-02 03:47:14 dumpaddr thread start
+2014-04-02 03:47:14 addcon thread start
+2014-04-02 03:47:14 msghand thread start
+2014-04-02 03:47:14 init message: Done loading
+2014-04-02 03:47:14 GetMyExternalIP() received [70.208.0.85] 70.208.0.85:0
+2014-04-02 03:47:14 GetMyExternalIP() returned 70.208.0.85
+2014-04-02 03:47:14 AddLocal(70.208.0.85:11072,4)
+2014-04-02 03:47:53 EnvShutdown exception: Invalid argument (22)
