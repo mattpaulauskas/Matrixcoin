@@ -31,7 +31,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x00000000d11c63ed155683cf83fb45e1fb15414535886ffbaf9d5821e4b75306");
+uint256 hashGenesisBlock("0x000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 32);
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2734,7 +2734,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0x11;
         pchMessageStart[2] = 0x09;
         pchMessageStart[3] = 0x07;
-        hashGenesisBlock = uint256("0x00000000d11c63ed155683cf83fb45e1fb15414535886ffbaf9d5821e4b75306");
+        hashGenesisBlock = uint256("0x000000005b89b85b72512b0f3501b163e457a15107b8950707650dd8b75a7c21");
     }
 
     //
@@ -2766,20 +2766,20 @@ bool InitBlockIndex() {
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CBigNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         txNew.vout[0].nValue = 50 * COIN;
-        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") << OP_CHECKSIG;
+        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04DAF1B7215DEE193EE2320B77A670D42E329B247CAD376A9AA85EEDB72E2C12C4A95CD35EE5160C9B16528686EFE6C8F27D90CC3C87EB4ADDD2056F8174AF5BA1") << OP_CHECKSIG;
         CBlock block;
         block.vtx.push_back(txNew);
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1396383172;
+        block.nTime    = 1396395808;
         block.nBits    = 486604799;
-        block.nNonce   = 0;
+        block.nNonce   = 591705943;
 
         if (fTestNet)
         {
-            block.nTime    = 1396383172;
-            block.nNonce   = 0;
+            block.nTime    = 1396395808;
+            block.nNonce   = 591705943;
         }
 			
 
@@ -2788,25 +2788,10 @@ bool InitBlockIndex() {
         printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
-        assert(block.hashMerkleRoot == uint256("0x6332375f7067f2e925211b074a78a1f19254c480e457b11fedfe0ec276e06a81"));
+        assert(block.hashMerkleRoot == uint256("0x58842a752c44f103228e1e29344f7a42d527d73c1ee6232cbbdc581a231209dd"));
 		block.print();
         assert(hash == hashGenesisBlock);
 		
-		// If genesis block hash does not match, then generate new genesis hash.
-        if (true && block.GetHash() != hashGenesisBlock)
-        {
-            printf("Searching for genesis block...\n");
-            // This will figure out a valid hash and Nonce if you're
-            // creating a different genesis block:
-            uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
-            uint256 thash;
-            printf("block.nTime = %u \n", block.nTime);
-            printf("block.nNonce = %u \n", block.nNonce);
-            printf("block.GetHash = %s\n", block.GetHash().ToString().c_str());
-        }
-
-        block.print();
-        assert(block.GetHash() == hashGenesisBlock);
 
         // Start new block file
         try {
